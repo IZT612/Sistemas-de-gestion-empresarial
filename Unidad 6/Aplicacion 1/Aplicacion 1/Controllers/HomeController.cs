@@ -23,6 +23,13 @@ namespace Aplicacion_1.Controllers
             return View();
         }
 
+        public string Ivan()
+        {
+
+            return "hello Ivan";
+
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
