@@ -3,12 +3,14 @@
     "",
     "\\Unidad 6",
     "\\Unidad 6\\Aplicacion 1",
+    "\\Unidad 6\\Aplicacion 1\\Aplicacion 1",
     "\\Unidad 6\\Aplicacion 1\\Aplicacion 1\\Controllers",
+    "\\Unidad 6\\Aplicacion 1\\Aplicacion 1\\Models",
     "\\Unidad 6\\Aplicacion 1\\Aplicacion 1\\Views",
     "\\Unidad 6\\Aplicacion 1\\Aplicacion 1\\Views\\Home",
     "\\Unidad 6\\Aplicacion 1\\Aplicacion 1\\wwwroot",
     "\\Unidad 6\\Aplicacion 1\\Aplicacion 1\\wwwroot\\css"
   ],
-  "SelectedNode": "\\Unidad 6\\Aplicacion 1\\Aplicacion 1.sln",
+  "SelectedNode": "\\Unidad 6\\Aplicacion 1\\Aplicacion 1\\Controllers\\HomeController.cs",
   "PreviewInSolutionExplorer": false
 }

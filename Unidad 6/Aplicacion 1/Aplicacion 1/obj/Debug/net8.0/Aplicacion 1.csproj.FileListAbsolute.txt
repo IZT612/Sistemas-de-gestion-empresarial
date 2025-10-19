@@ -32,3 +32,37 @@ C:\Users\ivan.zamora\Desktop\Asignaturas\Sistemas de Gestión Empresarial\github
 C:\Users\ivan.zamora\Desktop\Asignaturas\Sistemas de Gestión Empresarial\github\Sistemas-de-gestion-empresarial\Unidad 6\Aplicacion 1\Aplicacion 1\obj\Debug\net8.0\Aplicacion 1.pdb
 C:\Users\ivan.zamora\Desktop\Asignaturas\Sistemas de Gestión Empresarial\github\Sistemas-de-gestion-empresarial\Unidad 6\Aplicacion 1\Aplicacion 1\obj\Debug\net8.0\Aplicacion 1.genruntimeconfig.cache
 C:\Users\ivan.zamora\Desktop\Asignaturas\Sistemas de Gestión Empresarial\github\Sistemas-de-gestion-empresarial\Unidad 6\Aplicacion 1\Aplicacion 1\obj\Debug\net8.0\ref\Aplicacion 1.dll
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 6\Aplicacion 1\Aplicacion 1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 6\Aplicacion 1\Aplicacion 1\bin\Debug\net8.0\appsettings.json
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 6\Aplicacion 1\Aplicacion 1\bin\Debug\net8.0\Aplicacion 1.staticwebassets.runtime.json
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 6\Aplicacion 1\Aplicacion 1\bin\Debug\net8.0\Aplicacion 1.staticwebassets.endpoints.json
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 6\Aplicacion 1\Aplicacion 1\bin\Debug\net8.0\Aplicacion 1.exe
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 6\Aplicacion 1\Aplicacion 1\bin\Debug\net8.0\Aplicacion 1.deps.json
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 6\Aplicacion 1\Aplicacion 1\bin\Debug\net8.0\Aplicacion 1.runtimeconfig.json
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 6\Aplicacion 1\Aplicacion 1\bin\Debug\net8.0\Aplicacion 1.dll
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 6\Aplicacion 1\Aplicacion 1\bin\Debug\net8.0\Aplicacion 1.pdb
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 6\Aplicacion 1\Aplicacion 1\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 6\Aplicacion 1\Aplicacion 1\obj\Debug\net8.0\Aplicacion 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 6\Aplicacion 1\Aplicacion 1\obj\Debug\net8.0\Aplicacion 1.AssemblyInfoInputs.cache
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 6\Aplicacion 1\Aplicacion 1\obj\Debug\net8.0\Aplicacion 1.AssemblyInfo.cs
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 6\Aplicacion 1\Aplicacion 1\obj\Debug\net8.0\Aplicacion 1.csproj.CoreCompileInputs.cache
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 6\Aplicacion 1\Aplicacion 1\obj\Debug\net8.0\Aplicacion 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 6\Aplicacion 1\Aplicacion 1\obj\Debug\net8.0\Aplicacion 1.RazorAssemblyInfo.cache
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 6\Aplicacion 1\Aplicacion 1\obj\Debug\net8.0\Aplicacion 1.RazorAssemblyInfo.cs
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 6\Aplicacion 1\Aplicacion 1\obj\Debug\net8.0\Aplicacion 1.sourcelink.json
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 6\Aplicacion 1\Aplicacion 1\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 6\Aplicacion 1\Aplicacion 1\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 6\Aplicacion 1\Aplicacion 1\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 6\Aplicacion 1\Aplicacion 1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 6\Aplicacion 1\Aplicacion 1\obj\Debug\net8.0\scopedcss\bundle\Aplicacion 1.styles.css
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 6\Aplicacion 1\Aplicacion 1\obj\Debug\net8.0\scopedcss\projectbundle\Aplicacion 1.bundle.scp.css
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 6\Aplicacion 1\Aplicacion 1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 6\Aplicacion 1\Aplicacion 1\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 6\Aplicacion 1\Aplicacion 1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 6\Aplicacion 1\Aplicacion 1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 6\Aplicacion 1\Aplicacion 1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 6\Aplicacion 1\Aplicacion 1\obj\Debug\net8.0\Aplicacion 1.dll
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 6\Aplicacion 1\Aplicacion 1\obj\Debug\net8.0\refint\Aplicacion 1.dll
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 6\Aplicacion 1\Aplicacion 1\obj\Debug\net8.0\Aplicacion 1.pdb
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 6\Aplicacion 1\Aplicacion 1\obj\Debug\net8.0\Aplicacion 1.genruntimeconfig.cache
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 6\Aplicacion 1\Aplicacion 1\obj\Debug\net8.0\ref\Aplicacion 1.dll
