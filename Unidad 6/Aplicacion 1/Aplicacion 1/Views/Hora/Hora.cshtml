@@ -1,0 +1,13 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    // Guardamos las variables necesarias en variables locales para usarlas en la vista
+    var horaActual = ViewBag.HoraActual;
+    var mensajeMediodia = ViewBag.MensajeMediodia;
+}
+
+<p> Hola, son las @horaActual.ToString("HH:mm")</p>
+<p> @mensajeMediodia </p>
+</br>
+<p> Volver al @Html.ActionLink("Ejercicio 1", "index", "Home") </p>
