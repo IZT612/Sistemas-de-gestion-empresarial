@@ -1,0 +1,16 @@
+﻿@{
+    var mensaje = ViewData["Mensaje"];
+    var hora = ViewBag.HoraActual;
+    @model Proyecto1.Models.Entities.Persona
+}
+
+<div class="text-center">
+    <h1 class="display-4">@mensaje</h1>
+    <p>@hora</p>
+    <br />
+    <p> ID de la persona: @Model.id </p>
+    <p> Nombre de la persona: @Model.nombre </p>
+    <p> Edad de la persona: @Model.edad </p>
+
+
+</div>

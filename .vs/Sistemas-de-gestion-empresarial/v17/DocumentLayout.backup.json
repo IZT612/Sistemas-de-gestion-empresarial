@@ -1,12 +1,86 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ivan.zamora\\Desktop\\Asignaturas\\Sistemas de Gesti\u00F3n Empresarial\\github\\Sistemas-de-gestion-empresarial\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ivan.zamora\\Desktop\\Asignaturas\\Sistemas de Gesti\u00F3n Empresarial\\github\\Sistemas-de-gestion-empresarial\\Unidad 6\\Aplicacion 1\\Aplicacion 1\\Controllers\\ProductosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Unidad 6\\Aplicacion 1\\Aplicacion 1\\Controllers\\ProductosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ivan.zamora\\Desktop\\Asignaturas\\Sistemas de Gesti\u00F3n Empresarial\\github\\Sistemas-de-gestion-empresarial\\Unidad 6\\Aplicacion 1\\Aplicacion 1\\Views\\Tabla\\TablaMultiplicar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Unidad 6\\Aplicacion 1\\Aplicacion 1\\Views\\Tabla\\TablaMultiplicar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ivan.zamora\\Desktop\\Asignaturas\\Sistemas de Gesti\u00F3n Empresarial\\github\\Sistemas-de-gestion-empresarial\\Unidad 6\\Aplicacion 1\\Aplicacion 1\\Controllers\\HoraController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Unidad 6\\Aplicacion 1\\Aplicacion 1\\Controllers\\HoraController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ivan.zamora\\Desktop\\Asignaturas\\Sistemas de Gesti\u00F3n Empresarial\\github\\Sistemas-de-gestion-empresarial\\Unidad 6\\Aplicacion 1\\Aplicacion 1\\Views\\Hora\\Hora.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Unidad 6\\Aplicacion 1\\Aplicacion 1\\Views\\Hora\\Hora.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TablaMultiplicar.cshtml",
+              "DocumentMoniker": "C:\\Users\\ivan.zamora\\Desktop\\Asignaturas\\Sistemas de Gesti\u00F3n Empresarial\\github\\Sistemas-de-gestion-empresarial\\Unidad 6\\Aplicacion 1\\Aplicacion 1\\Views\\Tabla\\TablaMultiplicar.cshtml",
+              "RelativeDocumentMoniker": "Unidad 6\\Aplicacion 1\\Aplicacion 1\\Views\\Tabla\\TablaMultiplicar.cshtml",
+              "ToolTip": "C:\\Users\\ivan.zamora\\Desktop\\Asignaturas\\Sistemas de Gesti\u00F3n Empresarial\\github\\Sistemas-de-gestion-empresarial\\Unidad 6\\Aplicacion 1\\Aplicacion 1\\Views\\Tabla\\TablaMultiplicar.cshtml",
+              "RelativeToolTip": "Unidad 6\\Aplicacion 1\\Aplicacion 1\\Views\\Tabla\\TablaMultiplicar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T08:33:51.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.zamora\\Desktop\\Asignaturas\\Sistemas de Gesti\u00F3n Empresarial\\github\\Sistemas-de-gestion-empresarial\\Unidad 6\\Aplicacion 1\\Aplicacion 1\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "Unidad 6\\Aplicacion 1\\Aplicacion 1\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\ivan.zamora\\Desktop\\Asignaturas\\Sistemas de Gesti\u00F3n Empresarial\\github\\Sistemas-de-gestion-empresarial\\Unidad 6\\Aplicacion 1\\Aplicacion 1\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "Unidad 6\\Aplicacion 1\\Aplicacion 1\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T08:30:06.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hora.cshtml",
+              "DocumentMoniker": "C:\\Users\\ivan.zamora\\Desktop\\Asignaturas\\Sistemas de Gesti\u00F3n Empresarial\\github\\Sistemas-de-gestion-empresarial\\Unidad 6\\Aplicacion 1\\Aplicacion 1\\Views\\Hora\\Hora.cshtml",
+              "RelativeDocumentMoniker": "Unidad 6\\Aplicacion 1\\Aplicacion 1\\Views\\Hora\\Hora.cshtml",
+              "ToolTip": "C:\\Users\\ivan.zamora\\Desktop\\Asignaturas\\Sistemas de Gesti\u00F3n Empresarial\\github\\Sistemas-de-gestion-empresarial\\Unidad 6\\Aplicacion 1\\Aplicacion 1\\Views\\Hora\\Hora.cshtml",
+              "RelativeToolTip": "Unidad 6\\Aplicacion 1\\Aplicacion 1\\Views\\Hora\\Hora.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T08:20:25.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HoraController.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.zamora\\Desktop\\Asignaturas\\Sistemas de Gesti\u00F3n Empresarial\\github\\Sistemas-de-gestion-empresarial\\Unidad 6\\Aplicacion 1\\Aplicacion 1\\Controllers\\HoraController.cs",
+              "RelativeDocumentMoniker": "Unidad 6\\Aplicacion 1\\Aplicacion 1\\Controllers\\HoraController.cs",
+              "ToolTip": "C:\\Users\\ivan.zamora\\Desktop\\Asignaturas\\Sistemas de Gesti\u00F3n Empresarial\\github\\Sistemas-de-gestion-empresarial\\Unidad 6\\Aplicacion 1\\Aplicacion 1\\Controllers\\HoraController.cs",
+              "RelativeToolTip": "Unidad 6\\Aplicacion 1\\Aplicacion 1\\Controllers\\HoraController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T08:14:33.027Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
