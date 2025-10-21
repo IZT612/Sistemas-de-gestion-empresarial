@@ -17,9 +17,16 @@ namespace Proyecto1.Models.DAL
         #endregion
 
         #region constructor
-        public DepartamentosDAL(List<Departamento> lista)
+        public DepartamentosDAL()
         {
-            this._lista = lista;
+            this._lista = new List<Departamento>
+            {
+                new Departamento(1, "Recursos Humanos"),
+                new Departamento(2, "Desarrollo"),
+                new Departamento(3, "Marketing"),
+                new Departamento(4, "Ventas"),
+                new Departamento(5, "Atención al Cliente")
+            };
         }
         #endregion
 

@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 7\\Proyecto1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|c:\\users\\iziva\\documents\\github\\sistemas-de-gestion-empresarial\\unidad 7\\proyecto1\\views\\home\\editarpersona.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|solutionrelative:views\\home\\editarpersona.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|c:\\users\\iziva\\documents\\github\\sistemas-de-gestion-empresarial\\unidad 7\\proyecto1\\views\\home\\formulario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|solutionrelative:views\\home\\formulario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|c:\\users\\iziva\\documents\\github\\sistemas-de-gestion-empresarial\\unidad 7\\proyecto1\\views\\home\\tercerapersona.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|solutionrelative:views\\home\\tercerapersona.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|c:\\users\\iziva\\documents\\github\\sistemas-de-gestion-empresarial\\unidad 7\\proyecto1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|c:\\users\\iziva\\documents\\github\\sistemas-de-gestion-empresarial\\unidad 7\\proyecto1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|c:\\users\\iziva\\documents\\github\\sistemas-de-gestion-empresarial\\unidad 7\\proyecto1\\models\\entities\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|solutionrelative:models\\entities\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|c:\\users\\iziva\\documents\\github\\sistemas-de-gestion-empresarial\\unidad 7\\proyecto1\\views\\home\\tercerapersona.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|solutionrelative:views\\home\\tercerapersona.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|c:\\users\\iziva\\documents\\github\\sistemas-de-gestion-empresarial\\unidad 7\\proyecto1\\models\\dal\\departamentosdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,16 +27,20 @@
       "RelativeMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|solutionrelative:models\\dal\\personasdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|c:\\users\\iziva\\documents\\github\\sistemas-de-gestion-empresarial\\unidad 7\\proyecto1\\models\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|solutionrelative:models\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|c:\\users\\iziva\\documents\\github\\sistemas-de-gestion-empresarial\\unidad 7\\proyecto1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|c:\\users\\iziva\\documents\\github\\sistemas-de-gestion-empresarial\\unidad 7\\proyecto1\\models\\entities\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|solutionrelative:models\\entities\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|c:\\users\\iziva\\documents\\github\\sistemas-de-gestion-empresarial\\unidad 7\\proyecto1\\views\\home\\listadopersonas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|solutionrelative:views\\home\\listadopersonas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|c:\\users\\iziva\\documents\\github\\sistemas-de-gestion-empresarial\\unidad 7\\proyecto1\\views\\home\\editarpersona.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|solutionrelative:views\\home\\editarpersona.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|c:\\users\\iziva\\documents\\github\\sistemas-de-gestion-empresarial\\unidad 7\\proyecto1\\models\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|solutionrelative:models\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,38 +55,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "formulario.cshtml",
+              "DocumentMoniker": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 7\\Proyecto1\\Views\\Home\\formulario.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\formulario.cshtml",
+              "ToolTip": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 7\\Proyecto1\\Views\\Home\\formulario.cshtml",
+              "RelativeToolTip": "Views\\Home\\formulario.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-21T19:52:51.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "editarPersona.cshtml",
               "DocumentMoniker": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 7\\Proyecto1\\Views\\Home\\editarPersona.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\editarPersona.cshtml",
               "ToolTip": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 7\\Proyecto1\\Views\\Home\\editarPersona.cshtml",
               "RelativeToolTip": "Views\\Home\\editarPersona.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-21T19:34:45.002Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Departamento.cs",
               "DocumentMoniker": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 7\\Proyecto1\\Models\\Entities\\Departamento.cs",
               "RelativeDocumentMoniker": "Models\\Entities\\Departamento.cs",
               "ToolTip": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 7\\Proyecto1\\Models\\Entities\\Departamento.cs",
               "RelativeToolTip": "Models\\Entities\\Departamento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-21T19:17:46.256Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 7\\Proyecto1\\Models\\Entities\\Persona.cs",
               "RelativeDocumentMoniker": "Models\\Entities\\Persona.cs",
               "ToolTip": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 7\\Proyecto1\\Models\\Entities\\Persona.cs",
               "RelativeToolTip": "Models\\Entities\\Persona.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwCsAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-20T12:09:43.906Z",
               "EditorCaption": ""
@@ -95,33 +112,33 @@
               "RelativeDocumentMoniker": "Models\\DAL\\DepartamentosDAL.cs",
               "ToolTip": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 7\\Proyecto1\\Models\\DAL\\DepartamentosDAL.cs",
               "RelativeToolTip": "Models\\DAL\\DepartamentosDAL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-21T19:17:37.422Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "terceraPersona.cshtml",
               "DocumentMoniker": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 7\\Proyecto1\\Views\\Home\\terceraPersona.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\terceraPersona.cshtml",
               "ToolTip": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 7\\Proyecto1\\Views\\Home\\terceraPersona.cshtml",
               "RelativeToolTip": "Views\\Home\\terceraPersona.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-21T19:03:25.618Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "listadoPersonas.cshtml",
               "DocumentMoniker": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 7\\Proyecto1\\Views\\Home\\listadoPersonas.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\listadoPersonas.cshtml",
               "ToolTip": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 7\\Proyecto1\\Views\\Home\\listadoPersonas.cshtml",
               "RelativeToolTip": "Views\\Home\\listadoPersonas.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-21T18:39:24.602Z",
               "EditorCaption": ""
@@ -134,20 +151,20 @@
               "RelativeDocumentMoniker": "Models\\DAL\\PersonasDAL.cs",
               "ToolTip": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 7\\Proyecto1\\Models\\DAL\\PersonasDAL.cs",
               "RelativeToolTip": "Models\\DAL\\PersonasDAL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-21T18:20:45.235Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 7\\Proyecto1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 7\\Proyecto1\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-20T12:03:42.178Z",
               "EditorCaption": ""
@@ -160,7 +177,7 @@
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 7\\Proyecto1\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAwwFUAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBoAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-20T12:02:44.871Z",
               "EditorCaption": ""

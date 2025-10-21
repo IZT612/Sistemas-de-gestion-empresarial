@@ -10,16 +10,10 @@ namespace Proyecto1.Controllers
     {
         Random rnd = new Random();
 
+        static DepartamentosDAL listaDepartamentos = new DepartamentosDAL();
 
         // Guardamos aquí la lista de personas porque la usaremos en dos vistas.
-        PersonasDAL listaPersonas = new PersonasDAL(new List<Persona>
-            {
-                new Persona(1, "Iván",  "Zamora Torres", 18),
-                new Persona(2, "María", "García López", 25),
-                new Persona(3, "Carlos", "Sánchez Pérez", 30),
-                new Persona(4, "Ana", "Fernández Gómez", 22),
-                new Persona(5, "Luis", "Rodríguez Díaz", 28)
-            });
+        static PersonasDAL listaPersonas = new PersonasDAL(listaDepartamentos.lista);
 
         private readonly ILogger<HomeController> _logger;
 
@@ -30,7 +24,7 @@ namespace Proyecto1.Controllers
 
         public IActionResult Index()
         {
-            var persona = new Persona(1, "Iván", "Zamora Torres", 18);
+            var persona = new Persona(1, "Iván", "Zamora Torres", 18, listaDepartamentos.lista[4]);
             int horaActual = DateTime.Now.Hour;
             string mensaje;
 
@@ -88,6 +82,30 @@ namespace Proyecto1.Controllers
 
             return View(listaPersonas.lista[rnd.Next(0, 5)]);
 
+        }
+
+        public IActionResult crearFormulario(int id)
+        {
+            Persona personaEditar = listaPersonas.lista[1];
+
+            foreach (Persona persona in listaPersonas.lista)
+            {
+                if (persona.id == id)
+                {
+                    personaEditar = persona;
+
+                }
+            }
+
+            ViewBag.ListaDepartamentos = listaDepartamentos.lista;
+
+            return View("formulario", personaEditar);
+
+        }
+
+        public IActionResult guardarCambios()
+        {
+            return View("Index");
         }
 
     }
