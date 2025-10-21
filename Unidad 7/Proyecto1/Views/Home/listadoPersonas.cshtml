@@ -1,0 +1,55 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+
+    @model Proyecto1.Models.DAL.PersonasDAL
+}
+
+<div> 
+
+    <table>
+
+        <thead>
+
+            <tr>
+
+                <th> NOMBRE </th>
+                <th> APELLIDOS </th>
+
+            </tr>
+
+        </thead>
+        
+        <tbody>
+
+            @foreach (var persona in @Model.lista)
+            {
+                <tr>
+                    <td> @persona.nombre </td>
+                    <td> @persona.apellidos </td>
+                </tr>
+            }
+
+        </tbody>
+
+
+    </table>
+
+</div>
+<br />
+@Html.ActionLink("Volver al inicio", "Index", "Home")
+
+<style>
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    th, td {
+        border: 1px solid black;
+        padding: 8px;
+        text-align: left;
+    }
+</style>
+

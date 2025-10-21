@@ -1,0 +1,14 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    @model Proyecto1.Models.Entities.Persona
+}
+
+<p> ID: @Model.id </p>
+<p> Nombre: @Model.nombre </p>
+<p> Apellidos: @Model.apellidos </p>
+<p> Edad: @Model.edad </p>
+<br />
+@Html.ActionLink("Volver al inic", "Index", "Home")
+<br />

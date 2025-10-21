@@ -5,6 +5,7 @@
         #region atributos privados
         private int _id;
         private string _nombre;
+        private string _apellidos;
         private int _edad;
         #endregion
 
@@ -14,6 +15,14 @@
         {
             get { return _nombre; }
             set { _nombre = value; }
+
+        }
+
+        public string apellidos
+        {
+
+            get { return _apellidos; }
+            set { _apellidos = value; }
 
         }
         public int edad
@@ -27,11 +36,12 @@
         #region constructores
         public Persona(){}
 
-        public Persona (int id, string nombre, int edad)
+        public Persona (int id, string nombre, string apellidos, int edad)
         {
 
             this._id = id;
             this._nombre = nombre;
+            this._apellidos = apellidos;
             this._edad = edad;
 
         }

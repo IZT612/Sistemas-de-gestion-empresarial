@@ -1,16 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Unidad 6\\Aplicacion 1\\Aplicacion 1",
-    "\\Unidad 6\\Aplicacion 1\\Aplicacion 1\\Views",
-    "\\Unidad 6\\Aplicacion 1\\Aplicacion 1\\Views\\Hora",
-    "\\Unidad 6\\Aplicacion 1\\Aplicacion 1\\Views\\Tabla",
-    "\\Unidad 6\\Aplicacion 1\\Aplicacion 1\\wwwroot",
-    "\\Unidad 6\\Aplicacion 1\\Aplicacion 1\\wwwroot\\css",
     "\\Unidad 7",
     "\\Unidad 7\\Proyecto1",
-    "\\Unidad 7\\Proyecto1\\Models\\Entities"
+    "\\Unidad 7\\Proyecto1\\Controllers",
+    "\\Unidad 7\\Proyecto1\\Models",
+    "\\Unidad 7\\Proyecto1\\Models\\Entities",
+    "\\Unidad 7\\Proyecto1\\Views",
+    "\\Unidad 7\\Proyecto1\\Views\\Home"
   ],
-  "SelectedNode": "\\Unidad 7",
+  "SelectedNode": "\\Unidad 7\\Proyecto1\\Models\\Entities\\Persona.cs",
   "PreviewInSolutionExplorer": false
 }
