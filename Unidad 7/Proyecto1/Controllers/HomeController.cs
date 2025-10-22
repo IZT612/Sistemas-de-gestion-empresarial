@@ -3,17 +3,15 @@ using Microsoft.AspNetCore.Mvc;
 using Proyecto1.Models;
 using Proyecto1.Models.Entities;
 using Proyecto1.Models.DAL;
+using Proyecto1.Models.ViewModels;
 
 namespace Proyecto1.Controllers
 {
     public class HomeController : Controller
     {
-        Random rnd = new Random();
-
-        static DepartamentosDAL listaDepartamentos = new DepartamentosDAL();
 
         // Guardamos aquí la lista de personas porque la usaremos en dos vistas.
-        static PersonasDAL listaPersonas = new PersonasDAL(listaDepartamentos.lista);
+
 
         private readonly ILogger<HomeController> _logger;
 
@@ -24,6 +22,8 @@ namespace Proyecto1.Controllers
 
         public IActionResult Index()
         {
+            DepartamentosDAL listaDepartamentos = new DepartamentosDAL();
+
             var persona = new Persona(1, "Iván", "Zamora Torres", 18, listaDepartamentos.lista[4]);
             int horaActual = DateTime.Now.Hour;
             string mensaje;
@@ -65,27 +65,34 @@ namespace Proyecto1.Controllers
 
         public IActionResult listadoPersonas()
         {
-
+            DepartamentosDAL listaDepartamentos = new DepartamentosDAL();
+            PersonasDAL listaPersonas = new PersonasDAL(listaDepartamentos.lista);
             return View(listaPersonas);
 
         }
 
         public IActionResult terceraPersona()
         {
-
+            DepartamentosDAL listaDepartamentos = new DepartamentosDAL();
+            PersonasDAL listaPersonas = new PersonasDAL(listaDepartamentos.lista);
             return View(listaPersonas.lista[2]);
 
         }
 
         public IActionResult editarPersona()
         {
-
+            Random rnd = new Random();
+            DepartamentosDAL listaDepartamentos = new DepartamentosDAL();
+            PersonasDAL listaPersonas = new PersonasDAL(listaDepartamentos.lista);
             return View(listaPersonas.lista[rnd.Next(0, 5)]);
 
         }
 
         public IActionResult crearFormulario(int id)
         {
+            DepartamentosDAL listaDepartamentos = new DepartamentosDAL();
+
+            PersonasDAL listaPersonas = new PersonasDAL(listaDepartamentos.lista);
             Persona personaEditar = listaPersonas.lista[1];
 
             foreach (Persona persona in listaPersonas.lista)
@@ -97,9 +104,9 @@ namespace Proyecto1.Controllers
                 }
             }
 
-            ViewBag.ListaDepartamentos = listaDepartamentos.lista;
+            FormularioVM formularioVM = new FormularioVM(personaEditar, listaDepartamentos);
 
-            return View("formulario", personaEditar);
+            return View("formulario", formularioVM);
 
         }
 
