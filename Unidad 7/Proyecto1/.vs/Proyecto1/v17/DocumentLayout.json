@@ -3,44 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\ivan.zamora\\Desktop\\Asignaturas\\Sistemas de Gesti\u00F3n Empresarial\\github\\Sistemas-de-gestion-empresarial\\Unidad 7\\Proyecto1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|c:\\users\\ivan.zamora\\desktop\\asignaturas\\sistemas de gesti\u00F3n empresarial\\github\\sistemas-de-gestion-empresarial\\unidad 7\\proyecto1\\models\\viewmodels\\formulariovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|solutionrelative:models\\viewmodels\\formulariovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|c:\\users\\ivan.zamora\\desktop\\asignaturas\\sistemas de gesti\u00F3n empresarial\\github\\sistemas-de-gestion-empresarial\\unidad 7\\proyecto1\\models\\dal\\departamentosdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|solutionrelative:models\\dal\\departamentosdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|c:\\users\\ivan.zamora\\desktop\\asignaturas\\sistemas de gesti\u00F3n empresarial\\github\\sistemas-de-gestion-empresarial\\unidad 7\\proyecto1\\models\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|solutionrelative:models\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|c:\\users\\ivan.zamora\\desktop\\asignaturas\\sistemas de gesti\u00F3n empresarial\\github\\sistemas-de-gestion-empresarial\\unidad 7\\proyecto1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|c:\\users\\ivan.zamora\\desktop\\asignaturas\\sistemas de gesti\u00F3n empresarial\\github\\sistemas-de-gestion-empresarial\\unidad 7\\proyecto1\\views\\home\\formulario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|solutionrelative:views\\home\\formulario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|c:\\users\\ivan.zamora\\desktop\\asignaturas\\sistemas de gesti\u00F3n empresarial\\github\\sistemas-de-gestion-empresarial\\unidad 7\\proyecto1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|c:\\users\\ivan.zamora\\desktop\\asignaturas\\sistemas de gesti\u00F3n empresarial\\github\\sistemas-de-gestion-empresarial\\unidad 7\\proyecto1\\models\\dal\\personasdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|solutionrelative:models\\dal\\personasdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|c:\\users\\ivan.zamora\\desktop\\asignaturas\\sistemas de gesti\u00F3n empresarial\\github\\sistemas-de-gestion-empresarial\\unidad 7\\proyecto1\\views\\home\\listadopersonas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|solutionrelative:views\\home\\listadopersonas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|c:\\users\\ivan.zamora\\desktop\\asignaturas\\sistemas de gesti\u00F3n empresarial\\github\\sistemas-de-gestion-empresarial\\unidad 7\\proyecto1\\views\\home\\tercerapersona.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|solutionrelative:views\\home\\tercerapersona.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|c:\\users\\ivan.zamora\\desktop\\asignaturas\\sistemas de gesti\u00F3n empresarial\\github\\sistemas-de-gestion-empresarial\\unidad 7\\proyecto1\\models\\dal\\personasdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|solutionrelative:models\\dal\\personasdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|c:\\users\\ivan.zamora\\desktop\\asignaturas\\sistemas de gesti\u00F3n empresarial\\github\\sistemas-de-gestion-empresarial\\unidad 7\\proyecto1\\models\\dal\\departamentosdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|solutionrelative:models\\dal\\departamentosdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|c:\\users\\ivan.zamora\\desktop\\asignaturas\\sistemas de gesti\u00F3n empresarial\\github\\sistemas-de-gestion-empresarial\\unidad 7\\proyecto1\\models\\entities\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|solutionrelative:models\\entities\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|c:\\users\\ivan.zamora\\desktop\\asignaturas\\sistemas de gesti\u00F3n empresarial\\github\\sistemas-de-gestion-empresarial\\unidad 7\\proyecto1\\views\\home\\listadopersonas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|solutionrelative:views\\home\\listadopersonas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|c:\\users\\ivan.zamora\\desktop\\asignaturas\\sistemas de gesti\u00F3n empresarial\\github\\sistemas-de-gestion-empresarial\\unidad 7\\proyecto1\\views\\home\\formulario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|solutionrelative:views\\home\\formulario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|c:\\users\\ivan.zamora\\desktop\\asignaturas\\sistemas de gesti\u00F3n empresarial\\github\\sistemas-de-gestion-empresarial\\unidad 7\\proyecto1\\models\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|solutionrelative:models\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|c:\\users\\ivan.zamora\\desktop\\asignaturas\\sistemas de gesti\u00F3n empresarial\\github\\sistemas-de-gestion-empresarial\\unidad 7\\proyecto1\\models\\viewmodels\\formulariovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|solutionrelative:models\\viewmodels\\formulariovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E63C9DD-155A-48B4-8F69-8126F950FD67}|Proyecto1.csproj|c:\\users\\ivan.zamora\\desktop\\asignaturas\\sistemas de gesti\u00F3n empresarial\\github\\sistemas-de-gestion-empresarial\\unidad 7\\proyecto1\\views\\home\\editarpersona.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -54,24 +54,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "FormularioVM.cs",
               "DocumentMoniker": "C:\\Users\\ivan.zamora\\Desktop\\Asignaturas\\Sistemas de Gesti\u00F3n Empresarial\\github\\Sistemas-de-gestion-empresarial\\Unidad 7\\Proyecto1\\Models\\ViewModels\\FormularioVM.cs",
               "RelativeDocumentMoniker": "Models\\ViewModels\\FormularioVM.cs",
               "ToolTip": "C:\\Users\\ivan.zamora\\Desktop\\Asignaturas\\Sistemas de Gesti\u00F3n Empresarial\\github\\Sistemas-de-gestion-empresarial\\Unidad 7\\Proyecto1\\Models\\ViewModels\\FormularioVM.cs",
               "RelativeToolTip": "Models\\ViewModels\\FormularioVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T11:12:52.544Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\ivan.zamora\\Desktop\\Asignaturas\\Sistemas de Gesti\u00F3n Empresarial\\github\\Sistemas-de-gestion-empresarial\\Unidad 7\\Proyecto1\\Models\\Entities\\Persona.cs",
               "RelativeDocumentMoniker": "Models\\Entities\\Persona.cs",
@@ -84,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "formulario.cshtml",
               "DocumentMoniker": "C:\\Users\\ivan.zamora\\Desktop\\Asignaturas\\Sistemas de Gesti\u00F3n Empresarial\\github\\Sistemas-de-gestion-empresarial\\Unidad 7\\Proyecto1\\Views\\Home\\formulario.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\formulario.cshtml",
@@ -97,19 +97,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "Departamento.cs",
               "DocumentMoniker": "C:\\Users\\ivan.zamora\\Desktop\\Asignaturas\\Sistemas de Gesti\u00F3n Empresarial\\github\\Sistemas-de-gestion-empresarial\\Unidad 7\\Proyecto1\\Models\\Entities\\Departamento.cs",
               "RelativeDocumentMoniker": "Models\\Entities\\Departamento.cs",
               "ToolTip": "C:\\Users\\ivan.zamora\\Desktop\\Asignaturas\\Sistemas de Gesti\u00F3n Empresarial\\github\\Sistemas-de-gestion-empresarial\\Unidad 7\\Proyecto1\\Models\\Entities\\Departamento.cs",
               "RelativeToolTip": "Models\\Entities\\Departamento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T19:17:46.256Z"
+              "WhenOpened": "2025-10-21T19:17:46.256Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "DepartamentosDAL.cs",
               "DocumentMoniker": "C:\\Users\\ivan.zamora\\Desktop\\Asignaturas\\Sistemas de Gesti\u00F3n Empresarial\\github\\Sistemas-de-gestion-empresarial\\Unidad 7\\Proyecto1\\Models\\DAL\\DepartamentosDAL.cs",
               "RelativeDocumentMoniker": "Models\\DAL\\DepartamentosDAL.cs",
@@ -122,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "terceraPersona.cshtml",
               "DocumentMoniker": "C:\\Users\\ivan.zamora\\Desktop\\Asignaturas\\Sistemas de Gesti\u00F3n Empresarial\\github\\Sistemas-de-gestion-empresarial\\Unidad 7\\Proyecto1\\Views\\Home\\terceraPersona.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\terceraPersona.cshtml",
@@ -130,11 +131,12 @@
               "RelativeToolTip": "Views\\Home\\terceraPersona.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-21T19:03:25.618Z"
+              "WhenOpened": "2025-10-21T19:03:25.618Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "listadoPersonas.cshtml",
               "DocumentMoniker": "C:\\Users\\ivan.zamora\\Desktop\\Asignaturas\\Sistemas de Gesti\u00F3n Empresarial\\github\\Sistemas-de-gestion-empresarial\\Unidad 7\\Proyecto1\\Views\\Home\\listadoPersonas.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\listadoPersonas.cshtml",
@@ -142,23 +144,25 @@
               "RelativeToolTip": "Views\\Home\\listadoPersonas.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-21T18:39:24.602Z"
+              "WhenOpened": "2025-10-21T18:39:24.602Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "PersonasDAL.cs",
               "DocumentMoniker": "C:\\Users\\ivan.zamora\\Desktop\\Asignaturas\\Sistemas de Gesti\u00F3n Empresarial\\github\\Sistemas-de-gestion-empresarial\\Unidad 7\\Proyecto1\\Models\\DAL\\PersonasDAL.cs",
               "RelativeDocumentMoniker": "Models\\DAL\\PersonasDAL.cs",
               "ToolTip": "C:\\Users\\ivan.zamora\\Desktop\\Asignaturas\\Sistemas de Gesti\u00F3n Empresarial\\github\\Sistemas-de-gestion-empresarial\\Unidad 7\\Proyecto1\\Models\\DAL\\PersonasDAL.cs",
               "RelativeToolTip": "Models\\DAL\\PersonasDAL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T18:20:45.235Z"
+              "WhenOpened": "2025-10-21T18:20:45.235Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ivan.zamora\\Desktop\\Asignaturas\\Sistemas de Gesti\u00F3n Empresarial\\github\\Sistemas-de-gestion-empresarial\\Unidad 7\\Proyecto1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -171,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\ivan.zamora\\Desktop\\Asignaturas\\Sistemas de Gesti\u00F3n Empresarial\\github\\Sistemas-de-gestion-empresarial\\Unidad 7\\Proyecto1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
