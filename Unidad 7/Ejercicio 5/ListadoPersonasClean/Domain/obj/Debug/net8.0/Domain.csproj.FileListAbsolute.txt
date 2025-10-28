@@ -1,0 +1,5 @@
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 7\Ejercicio 5\ListadoPersonasClean\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 7\Ejercicio 5\ListadoPersonasClean\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 7\Ejercicio 5\ListadoPersonasClean\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 7\Ejercicio 5\ListadoPersonasClean\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 7\Ejercicio 5\ListadoPersonasClean\Domain\obj\Debug\net8.0\Domain.sourcelink.json

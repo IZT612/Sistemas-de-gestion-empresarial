@@ -2,14 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\Unidad 7",
+    "\\Unidad 7\\Ejercicio 5",
+    "\\Unidad 7\\Ejercicio 5\\ListadoPersonasClean",
     "\\Unidad 7\\Proyecto1",
-    "\\Unidad 7\\Proyecto1\\Controllers",
     "\\Unidad 7\\Proyecto1\\Models",
     "\\Unidad 7\\Proyecto1\\Models\\Entities",
     "\\Unidad 7\\Proyecto1\\Models\\ViewModels",
     "\\Unidad 7\\Proyecto1\\Views",
     "\\Unidad 7\\Proyecto1\\Views\\Home"
   ],
-  "SelectedNode": "\\Unidad 7\\Proyecto1\\Controllers\\HomeController.cs",
+  "SelectedNode": "\\Unidad 7\\Ejercicio 5\\ListadoPersonasClean\\ListadoPersonasClean.sln",
   "PreviewInSolutionExplorer": false
 }
