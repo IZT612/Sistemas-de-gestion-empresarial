@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ivan.zamora\\Desktop\\Asignaturas\\Sistemas de Gestión Empresarial\\github\\Sistemas-de-gestion-empresarial\\Unidad 7\\Ejercicio 5\\ListadoPersonasClean\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 7\\Ejercicio 5\\ListadoPersonasClean\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\ivan.zamora\\Desktop\\Asignaturas\\Sistemas de Gestión Empresarial\\github\\Sistemas-de-gestion-empresarial\\Unidad 7\\Ejercicio 5\\ListadoPersonasClean\\Domain\\Domain.csproj",
+      "projectPath": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 7\\Ejercicio 5\\ListadoPersonasClean\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\ivan.zamora\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ivan.zamora\\Desktop\\Asignaturas\\Sistemas de Gestión Empresarial\\github\\Sistemas-de-gestion-empresarial\\Unidad 7\\Ejercicio 5\\ListadoPersonasClean\\Domain\\obj\\",
+      "outputPath": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 7\\Ejercicio 5\\ListadoPersonasClean\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
