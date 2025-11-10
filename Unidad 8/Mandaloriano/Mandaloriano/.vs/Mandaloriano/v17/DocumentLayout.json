@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 8\\Mandaloriano\\Mandaloriano\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BAC08A6-72B5-4FED-9876-02AEB7BCCEAB}|Data\\Data.csproj|c:\\users\\ivan.zamora\\github\\sistemas-gestion-empresarial\\unidad 8\\mandaloriano\\mandaloriano\\data\\repositories\\misionesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BAC08A6-72B5-4FED-9876-02AEB7BCCEAB}|Data\\Data.csproj|solutionrelative:data\\repositories\\misionesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B192BE-DBCC-4357-880A-EFDBF8983A9C}|Domain\\Domain.csproj|c:\\users\\ivan.zamora\\github\\sistemas-gestion-empresarial\\unidad 8\\mandaloriano\\mandaloriano\\domain\\repositories\\igetmisionesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B192BE-DBCC-4357-880A-EFDBF8983A9C}|Domain\\Domain.csproj|solutionrelative:domain\\repositories\\igetmisionesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BAC08A6-72B5-4FED-9876-02AEB7BCCEAB}|Data\\Data.csproj|c:\\users\\ivan.zamora\\github\\sistemas-gestion-empresarial\\unidad 8\\mandaloriano\\mandaloriano\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8BAC08A6-72B5-4FED-9876-02AEB7BCCEAB}|Data\\Data.csproj|solutionrelative:data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B192BE-DBCC-4357-880A-EFDBF8983A9C}|Domain\\Domain.csproj|c:\\users\\ivan.zamora\\github\\sistemas-gestion-empresarial\\unidad 8\\mandaloriano\\mandaloriano\\domain\\interfaces\\igetmisionesusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B192BE-DBCC-4357-880A-EFDBF8983A9C}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\igetmisionesusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B192BE-DBCC-4357-880A-EFDBF8983A9C}|Domain\\Domain.csproj|c:\\users\\ivan.zamora\\github\\sistemas-gestion-empresarial\\unidad 8\\mandaloriano\\mandaloriano\\domain\\usecases\\defaultgetmisionesuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B192BE-DBCC-4357-880A-EFDBF8983A9C}|Domain\\Domain.csproj|solutionrelative:domain\\usecases\\defaultgetmisionesuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07573032-3BF5-4401-B750-3A79792F04DD}|UI\\UI.csproj|c:\\users\\ivan.zamora\\github\\sistemas-gestion-empresarial\\unidad 8\\mandaloriano\\mandaloriano\\ui\\ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{07573032-3BF5-4401-B750-3A79792F04DD}|UI\\UI.csproj|solutionrelative:ui\\ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B192BE-DBCC-4357-880A-EFDBF8983A9C}|Domain\\Domain.csproj|c:\\users\\ivan.zamora\\github\\sistemas-gestion-empresarial\\unidad 8\\mandaloriano\\mandaloriano\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{84B192BE-DBCC-4357-880A-EFDBF8983A9C}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B192BE-DBCC-4357-880A-EFDBF8983A9C}|Domain\\Domain.csproj|c:\\users\\ivan.zamora\\github\\sistemas-gestion-empresarial\\unidad 8\\mandaloriano\\mandaloriano\\domain\\entities\\clsmision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B192BE-DBCC-4357-880A-EFDBF8983A9C}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\clsmision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGetMisionesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 8\\Mandaloriano\\Mandaloriano\\Domain\\Repositories\\IGetMisionesRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Repositories\\IGetMisionesRepository.cs",
+              "ToolTip": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 8\\Mandaloriano\\Mandaloriano\\Domain\\Repositories\\IGetMisionesRepository.cs",
+              "RelativeToolTip": "Domain\\Repositories\\IGetMisionesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:59:40.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IGetMisionesUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 8\\Mandaloriano\\Mandaloriano\\Domain\\Interfaces\\IGetMisionesUseCase.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IGetMisionesUseCase.cs",
+              "ToolTip": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 8\\Mandaloriano\\Mandaloriano\\Domain\\Interfaces\\IGetMisionesUseCase.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IGetMisionesUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:59:05.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DefaultGetMisionesUC.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 8\\Mandaloriano\\Mandaloriano\\Domain\\UseCases\\DefaultGetMisionesUC.cs",
+              "RelativeDocumentMoniker": "Domain\\UseCases\\DefaultGetMisionesUC.cs",
+              "ToolTip": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 8\\Mandaloriano\\Mandaloriano\\Domain\\UseCases\\DefaultGetMisionesUC.cs",
+              "RelativeToolTip": "Domain\\UseCases\\DefaultGetMisionesUC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:58:22.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UI",
+              "DocumentMoniker": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 8\\Mandaloriano\\Mandaloriano\\UI\\UI.csproj",
+              "RelativeDocumentMoniker": "UI\\UI.csproj",
+              "ToolTip": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 8\\Mandaloriano\\Mandaloriano\\UI\\UI.csproj",
+              "RelativeToolTip": "UI\\UI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-10T12:56:22.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MisionesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 8\\Mandaloriano\\Mandaloriano\\Data\\Repositories\\MisionesRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\MisionesRepository.cs",
+              "ToolTip": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 8\\Mandaloriano\\Mandaloriano\\Data\\Repositories\\MisionesRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\MisionesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:55:12.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Data",
+              "DocumentMoniker": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 8\\Mandaloriano\\Mandaloriano\\Data\\Data.csproj",
+              "RelativeDocumentMoniker": "Data\\Data.csproj",
+              "ToolTip": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 8\\Mandaloriano\\Mandaloriano\\Data\\Data.csproj",
+              "RelativeToolTip": "Data\\Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-10T12:45:31.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Domain",
+              "DocumentMoniker": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 8\\Mandaloriano\\Mandaloriano\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 8\\Mandaloriano\\Mandaloriano\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-10T12:44:01.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsMision.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 8\\Mandaloriano\\Mandaloriano\\Domain\\Entities\\clsMision.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\clsMision.cs",
+              "ToolTip": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 8\\Mandaloriano\\Mandaloriano\\Domain\\Entities\\clsMision.cs",
+              "RelativeToolTip": "Domain\\Entities\\clsMision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:39:48.582Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

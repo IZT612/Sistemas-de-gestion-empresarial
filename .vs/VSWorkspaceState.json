@@ -1,7 +1,6 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Unidad 7",
     "\\Unidad 7\\Ejercicio 5",
     "\\Unidad 7\\Ejercicio 5\\ListadoPersonasClean",
     "\\Unidad 7\\Ejercicio 5\\ListadoPersonasClean\\UI",
@@ -10,8 +9,9 @@
     "\\Unidad 7\\Proyecto1\\Models",
     "\\Unidad 7\\Proyecto1\\Models\\ViewModels",
     "\\Unidad 7\\Proyecto1\\Views",
-    "\\Unidad 7\\Proyecto1\\Views\\Home"
+    "\\Unidad 7\\Proyecto1\\Views\\Home",
+    "\\Unidad 8"
   ],
-  "SelectedNode": "\\Unidad 7\\Ejercicio 5\\ListadoPersonasClean\\UI\\Controllers\\HomeController.cs",
+  "SelectedNode": "\\Unidad 8\\Mandaloriano",
   "PreviewInSolutionExplorer": false
 }
