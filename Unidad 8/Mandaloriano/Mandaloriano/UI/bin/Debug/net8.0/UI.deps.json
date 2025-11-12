@@ -8,10 +8,22 @@
     ".NETCoreApp,Version=v8.0": {
       "UI/1.0.0": {
         "dependencies": {
+          "Data": "1.0.0",
           "Domain": "1.0.0"
         },
         "runtime": {
           "UI.dll": {}
+        }
+      },
+      "Data/1.0.0": {
+        "dependencies": {
+          "Domain": "1.0.0"
+        },
+        "runtime": {
+          "Data.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Domain/1.0.0": {
@@ -26,6 +38,11 @@
   },
   "libraries": {
     "UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Data/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

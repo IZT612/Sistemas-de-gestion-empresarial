@@ -9,7 +9,6 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 // Registramos los servicios para Clean Architecture
-builder.Services.AddSingleton<IMisionesRepository, MisionesRepository>();
 builder.Services.AddSingleton<IGetMisionesUseCase, DefaultGetMisionesUC>();
 
 

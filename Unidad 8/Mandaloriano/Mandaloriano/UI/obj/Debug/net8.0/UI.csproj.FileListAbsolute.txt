@@ -36,3 +36,5 @@ C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 8\Mandalo
 C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 8\Mandaloriano\Mandaloriano\UI\obj\Debug\net8.0\UI.pdb
 C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 8\Mandaloriano\Mandaloriano\UI\obj\Debug\net8.0\UI.genruntimeconfig.cache
 C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 8\Mandaloriano\Mandaloriano\UI\obj\Debug\net8.0\ref\UI.dll
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 8\Mandaloriano\Mandaloriano\UI\bin\Debug\net8.0\Data.dll
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 8\Mandaloriano\Mandaloriano\UI\bin\Debug\net8.0\Data.pdb

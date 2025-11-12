@@ -8,7 +8,7 @@ using Domain.Entities;
 
 namespace Data.Repositories
 {
-    internal class MisionesRepository : IMisionesRepository
+    public class MisionesRepository : IMisionesRepository
     {
 
         List<Mision> misiones = new List<Mision> {

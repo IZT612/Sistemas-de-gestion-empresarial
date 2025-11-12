@@ -1,9 +1,6 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Unidad 7\\Ejercicio 5",
-    "\\Unidad 7\\Ejercicio 5\\ListadoPersonasClean",
-    "\\Unidad 7\\Ejercicio 5\\ListadoPersonasClean\\Domain\\Entities",
     "\\Unidad 8",
     "\\Unidad 8\\Mandaloriano",
     "\\Unidad 8\\Mandaloriano\\Mandaloriano",
@@ -11,6 +8,6 @@
     "\\Unidad 8\\Mandaloriano\\Mandaloriano\\Domain\\UseCases",
     "\\Unidad 8\\Mandaloriano\\Mandaloriano\\UI"
   ],
-  "SelectedNode": "\\Unidad 8\\Mandaloriano\\Mandaloriano\\Mandaloriano.sln",
+  "SelectedNode": "\\Unidad 8\\Mandaloriano\\Mandaloriano\\UI\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
