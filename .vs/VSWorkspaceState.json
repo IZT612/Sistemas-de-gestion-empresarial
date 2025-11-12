@@ -3,15 +3,14 @@
     "",
     "\\Unidad 7\\Ejercicio 5",
     "\\Unidad 7\\Ejercicio 5\\ListadoPersonasClean",
-    "\\Unidad 7\\Ejercicio 5\\ListadoPersonasClean\\UI",
-    "\\Unidad 7\\Ejercicio 5\\ListadoPersonasClean\\UI\\Controllers",
-    "\\Unidad 7\\Proyecto1",
-    "\\Unidad 7\\Proyecto1\\Models",
-    "\\Unidad 7\\Proyecto1\\Models\\ViewModels",
-    "\\Unidad 7\\Proyecto1\\Views",
-    "\\Unidad 7\\Proyecto1\\Views\\Home",
-    "\\Unidad 8"
+    "\\Unidad 7\\Ejercicio 5\\ListadoPersonasClean\\Domain\\Entities",
+    "\\Unidad 8",
+    "\\Unidad 8\\Mandaloriano",
+    "\\Unidad 8\\Mandaloriano\\Mandaloriano",
+    "\\Unidad 8\\Mandaloriano\\Mandaloriano\\Domain",
+    "\\Unidad 8\\Mandaloriano\\Mandaloriano\\Domain\\UseCases",
+    "\\Unidad 8\\Mandaloriano\\Mandaloriano\\UI"
   ],
-  "SelectedNode": "\\Unidad 8\\Mandaloriano",
+  "SelectedNode": "\\Unidad 8\\Mandaloriano\\Mandaloriano\\Mandaloriano.sln",
   "PreviewInSolutionExplorer": false
 }

@@ -1,12 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Domain.Entities;
+using Domain.Repositories;
+
 
 namespace Domain.Interfaces
 {
-    internal interface IGetMisionesUseCase
+    public interface IGetMisionesUseCase
     {
+
+        public List<Mision> getMisionesUseCase(IMisionesRepository repository);
+
     }
 }
