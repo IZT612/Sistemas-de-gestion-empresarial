@@ -1,13 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Unidad 8",
-    "\\Unidad 8\\Mandaloriano",
-    "\\Unidad 8\\Mandaloriano\\Mandaloriano",
-    "\\Unidad 8\\Mandaloriano\\Mandaloriano\\Data",
-    "\\Unidad 8\\Mandaloriano\\Mandaloriano\\Domain",
-    "\\Unidad 8\\Mandaloriano\\Mandaloriano\\Domain\\UseCases",
-    "\\Unidad 8\\Mandaloriano\\Mandaloriano\\UI"
+    "\\Unidad 10",
+    "\\Unidad 10\\EjercicioListaPersonasClean\\CompositionRoot",
+    "\\Unidad 10\\EjercicioListaPersonasClean\\Data",
+    "\\Unidad 10\\EjercicioListaPersonasClean\\Data\\Database"
   ],
+  "SelectedNode": "\\Unidad 10\\Ejercicio2",
   "PreviewInSolutionExplorer": false
 }

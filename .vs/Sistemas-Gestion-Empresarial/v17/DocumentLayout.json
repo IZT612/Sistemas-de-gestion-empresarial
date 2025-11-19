@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 10\\EjercicioListaPersonasClean\\Data\\Database\\Connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Unidad 10\\EjercicioListaPersonasClean\\Data\\Database\\Connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 10\\EjercicioListaPersonasClean\\CompositionRoot\\DI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Unidad 10\\EjercicioListaPersonasClean\\CompositionRoot\\DI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 10\\EjercicioListaPersonasClean\\CompositionRoot\\CompositionRoot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Unidad 10\\EjercicioListaPersonasClean\\CompositionRoot\\CompositionRoot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 10\\EjercicioListaPersonasClean\\Data\\Data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Unidad 10\\EjercicioListaPersonasClean\\Data\\Data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 10\\EjercicioListaPersonasClean\\UI\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Unidad 10\\EjercicioListaPersonasClean\\UI\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DI.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 10\\EjercicioListaPersonasClean\\CompositionRoot\\DI.cs",
+              "RelativeDocumentMoniker": "Unidad 10\\EjercicioListaPersonasClean\\CompositionRoot\\DI.cs",
+              "ToolTip": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 10\\EjercicioListaPersonasClean\\CompositionRoot\\DI.cs",
+              "RelativeToolTip": "Unidad 10\\EjercicioListaPersonasClean\\CompositionRoot\\DI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T12:43:48.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CompositionRoot.csproj",
+              "DocumentMoniker": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 10\\EjercicioListaPersonasClean\\CompositionRoot\\CompositionRoot.csproj",
+              "RelativeDocumentMoniker": "Unidad 10\\EjercicioListaPersonasClean\\CompositionRoot\\CompositionRoot.csproj",
+              "ToolTip": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 10\\EjercicioListaPersonasClean\\CompositionRoot\\CompositionRoot.csproj",
+              "RelativeToolTip": "Unidad 10\\EjercicioListaPersonasClean\\CompositionRoot\\CompositionRoot.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-19T12:43:46.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Data.csproj",
+              "DocumentMoniker": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 10\\EjercicioListaPersonasClean\\Data\\Data.csproj",
+              "RelativeDocumentMoniker": "Unidad 10\\EjercicioListaPersonasClean\\Data\\Data.csproj",
+              "ToolTip": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 10\\EjercicioListaPersonasClean\\Data\\Data.csproj",
+              "RelativeToolTip": "Unidad 10\\EjercicioListaPersonasClean\\Data\\Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-19T12:43:42.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 10\\EjercicioListaPersonasClean\\Data\\Database\\Connection.cs",
+              "RelativeDocumentMoniker": "Unidad 10\\EjercicioListaPersonasClean\\Data\\Database\\Connection.cs",
+              "ToolTip": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 10\\EjercicioListaPersonasClean\\Data\\Database\\Connection.cs",
+              "RelativeToolTip": "Unidad 10\\EjercicioListaPersonasClean\\Data\\Database\\Connection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T12:43:32.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 10\\EjercicioListaPersonasClean\\UI\\Program.cs",
+              "RelativeDocumentMoniker": "Unidad 10\\EjercicioListaPersonasClean\\UI\\Program.cs",
+              "ToolTip": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 10\\EjercicioListaPersonasClean\\UI\\Program.cs",
+              "RelativeToolTip": "Unidad 10\\EjercicioListaPersonasClean\\UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T12:43:24.688Z",
+              "EditorCaption": ""
             }
           ]
         }
