@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace Domain.Entities
 {
-    internal class Persona
+    public class Persona
     {
 
         #region atributos
         private int _id;
         private string _nombre;
         private string _apellidos;
-        private DateTime _fecha;
+        private DateTime _fechaNac;
         private string _direccion;
         private string _telefono;
         #endregion
@@ -40,8 +40,8 @@ namespace Domain.Entities
 
         public DateTime fecha
         {
-            get { return _fecha; }
-            set { _fecha = value; }
+            get { return _fechaNac; }
+            set { _fechaNac = value; }
         }
 
         public string direccion

@@ -2,10 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\Unidad 10",
-    "\\Unidad 10\\EjercicioListaPersonasClean\\CompositionRoot",
-    "\\Unidad 10\\EjercicioListaPersonasClean\\Data",
-    "\\Unidad 10\\EjercicioListaPersonasClean\\Data\\Database"
+    "\\Unidad 10\\Ejercicio2",
+    "\\Unidad 10\\Ejercicio2\\Data",
+    "\\Unidad 10\\Ejercicio2\\Data\\Repositories",
+    "\\Unidad 10\\Ejercicio2\\Domain",
+    "\\Unidad 8\\Mandaloriano",
+    "\\Unidad 8\\Mandaloriano\\Mandaloriano",
+    "\\Unidad 8\\Mandaloriano\\Mandaloriano\\Domain",
+    "\\Unidad 8\\Mandaloriano\\Mandaloriano\\Domain\\UseCases"
   ],
-  "SelectedNode": "\\Unidad 10",
+  "SelectedNode": "\\Unidad 10\\Ejercicio2\\Ejercicio2.sln",
   "PreviewInSolutionExplorer": false
 }

@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "Unidad 8\\Mandaloriano\\Mandaloriano\\Domain\\UseCases\\DefaultGetMisionesUC.cs",
               "ToolTip": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 8\\Mandaloriano\\Mandaloriano\\Domain\\UseCases\\DefaultGetMisionesUC.cs",
               "RelativeToolTip": "Unidad 8\\Mandaloriano\\Mandaloriano\\Domain\\UseCases\\DefaultGetMisionesUC.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-11T23:32:37.242Z",
               "EditorCaption": ""
@@ -59,8 +59,7 @@
               "RelativeToolTip": "Unidad 8\\Mandaloriano\\Mandaloriano\\Domain\\Repositories\\IMisionesRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T23:31:51.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-11T23:31:51.735Z"
             },
             {
               "$type": "Document",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "Unidad 8\\Mandaloriano\\Mandaloriano\\Domain\\Interfaces\\IGetMisionesUseCase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T23:31:44.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-11T23:31:44.782Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "Unidad 8\\Mandaloriano\\Mandaloriano\\Data\\Repositories\\MisionesRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAADXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T23:30:41.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-11T23:30:41.297Z"
             },
             {
               "$type": "Document",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "Unidad 8\\Mandaloriano\\Mandaloriano\\Data\\Data.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-11T23:30:33.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-11T23:30:33.753Z"
             },
             {
               "$type": "Document",
@@ -111,8 +107,7 @@
               "RelativeToolTip": "Unidad 8\\Mandaloriano\\Mandaloriano\\Domain\\Entities\\Mision.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T23:30:26.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-11T23:30:26.22Z"
             }
           ]
         }
