@@ -3,56 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2426F80C-AEC3-4E1A-B85D-69197FEF0B28}|UI\\UI.csproj|c:\\users\\iziva\\documents\\github\\sistemas-de-gestion-empresarial\\unidad 10\\ejercicio2\\ui\\views\\persona\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2426F80C-AEC3-4E1A-B85D-69197FEF0B28}|UI\\UI.csproj|solutionrelative:ui\\views\\persona\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2426F80C-AEC3-4E1A-B85D-69197FEF0B28}|UI\\UI.csproj|c:\\users\\iziva\\documents\\github\\sistemas-de-gestion-empresarial\\unidad 10\\ejercicio2\\ui\\ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{2426F80C-AEC3-4E1A-B85D-69197FEF0B28}|UI\\UI.csproj|solutionrelative:ui\\ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2426F80C-AEC3-4E1A-B85D-69197FEF0B28}|UI\\UI.csproj|c:\\users\\iziva\\documents\\github\\sistemas-de-gestion-empresarial\\unidad 10\\ejercicio2\\ui\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2426F80C-AEC3-4E1A-B85D-69197FEF0B28}|UI\\UI.csproj|solutionrelative:ui\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2426F80C-AEC3-4E1A-B85D-69197FEF0B28}|UI\\UI.csproj|c:\\users\\iziva\\documents\\github\\sistemas-de-gestion-empresarial\\unidad 10\\ejercicio2\\ui\\views\\persona\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2426F80C-AEC3-4E1A-B85D-69197FEF0B28}|UI\\UI.csproj|solutionrelative:ui\\views\\persona\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2426F80C-AEC3-4E1A-B85D-69197FEF0B28}|UI\\UI.csproj|c:\\users\\iziva\\documents\\github\\sistemas-de-gestion-empresarial\\unidad 10\\ejercicio2\\ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2426F80C-AEC3-4E1A-B85D-69197FEF0B28}|UI\\UI.csproj|solutionrelative:ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C809A934-3E9B-481E-843A-31B8BC12A6B4}|Domain\\Domain.csproj|c:\\users\\iziva\\documents\\github\\sistemas-de-gestion-empresarial\\unidad 10\\ejercicio2\\domain\\mappers\\personatopersonawithnombredepartamentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C809A934-3E9B-481E-843A-31B8BC12A6B4}|Domain\\Domain.csproj|solutionrelative:domain\\mappers\\personatopersonawithnombredepartamentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C809A934-3E9B-481E-843A-31B8BC12A6B4}|Domain\\Domain.csproj|c:\\users\\iziva\\documents\\github\\sistemas-de-gestion-empresarial\\unidad 10\\ejercicio2\\domain\\dto\\personawithnombredepartamentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C809A934-3E9B-481E-843A-31B8BC12A6B4}|Domain\\Domain.csproj|solutionrelative:domain\\dto\\personawithnombredepartamentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2426F80C-AEC3-4E1A-B85D-69197FEF0B28}|UI\\UI.csproj|c:\\users\\iziva\\documents\\github\\sistemas-de-gestion-empresarial\\unidad 10\\ejercicio2\\ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2426F80C-AEC3-4E1A-B85D-69197FEF0B28}|UI\\UI.csproj|solutionrelative:ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C809A934-3E9B-481E-843A-31B8BC12A6B4}|Domain\\Domain.csproj|c:\\users\\iziva\\documents\\github\\sistemas-de-gestion-empresarial\\unidad 10\\ejercicio2\\domain\\usecases\\getpersonaswithdepartamentouc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C809A934-3E9B-481E-843A-31B8BC12A6B4}|Domain\\Domain.csproj|solutionrelative:domain\\usecases\\getpersonaswithdepartamentouc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F001549E-04AC-4981-AC90-2D16421B6742}|CompositionRoot\\CompositionRoot.csproj|c:\\users\\iziva\\documents\\github\\sistemas-de-gestion-empresarial\\unidad 10\\ejercicio2\\compositionroot\\compositionroot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F001549E-04AC-4981-AC90-2D16421B6742}|CompositionRoot\\CompositionRoot.csproj|solutionrelative:compositionroot\\compositionroot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C809A934-3E9B-481E-843A-31B8BC12A6B4}|Domain\\Domain.csproj|c:\\users\\iziva\\documents\\github\\sistemas-de-gestion-empresarial\\unidad 10\\ejercicio2\\domain\\interfaces\\igetpersonaswithdepartamentouc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C809A934-3E9B-481E-843A-31B8BC12A6B4}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\igetpersonaswithdepartamentouc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C809A934-3E9B-481E-843A-31B8BC12A6B4}|Domain\\Domain.csproj|c:\\users\\iziva\\documents\\github\\sistemas-de-gestion-empresarial\\unidad 10\\ejercicio2\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C809A934-3E9B-481E-843A-31B8BC12A6B4}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C809A934-3E9B-481E-843A-31B8BC12A6B4}|Domain\\Domain.csproj|c:\\users\\iziva\\documents\\github\\sistemas-de-gestion-empresarial\\unidad 10\\ejercicio2\\domain\\repositories\\ipeoplerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C809A934-3E9B-481E-843A-31B8BC12A6B4}|Domain\\Domain.csproj|solutionrelative:domain\\repositories\\ipeoplerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F001549E-04AC-4981-AC90-2D16421B6742}|CompositionRoot\\CompositionRoot.csproj|c:\\users\\iziva\\documents\\github\\sistemas-de-gestion-empresarial\\unidad 10\\ejercicio2\\compositionroot\\di.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F001549E-04AC-4981-AC90-2D16421B6742}|CompositionRoot\\CompositionRoot.csproj|solutionrelative:compositionroot\\di.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{02D6B2CE-A55A-4BDE-9333-88B7D5F0C943}|Data\\Data.csproj|c:\\users\\iziva\\documents\\github\\sistemas-de-gestion-empresarial\\unidad 10\\ejercicio2\\data\\repositories\\peoplerepositoryazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02D6B2CE-A55A-4BDE-9333-88B7D5F0C943}|Data\\Data.csproj|solutionrelative:data\\repositories\\peoplerepositoryazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C809A934-3E9B-481E-843A-31B8BC12A6B4}|Domain\\Domain.csproj|c:\\users\\iziva\\documents\\github\\sistemas-de-gestion-empresarial\\unidad 10\\ejercicio2\\domain\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C809A934-3E9B-481E-843A-31B8BC12A6B4}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C809A934-3E9B-481E-843A-31B8BC12A6B4}|Domain\\Domain.csproj|c:\\users\\iziva\\documents\\github\\sistemas-de-gestion-empresarial\\unidad 10\\ejercicio2\\domain\\entities\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C809A934-3E9B-481E-843A-31B8BC12A6B4}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2426F80C-AEC3-4E1A-B85D-69197FEF0B28}|UI\\UI.csproj|c:\\users\\iziva\\documents\\github\\sistemas-de-gestion-empresarial\\unidad 10\\ejercicio2\\ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2426F80C-AEC3-4E1A-B85D-69197FEF0B28}|UI\\UI.csproj|solutionrelative:ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,164 +46,119 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\UI\\Views\\Persona\\Index.cshtml",
               "RelativeDocumentMoniker": "UI\\Views\\Persona\\Index.cshtml",
               "ToolTip": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\UI\\Views\\Persona\\Index.cshtml",
               "RelativeToolTip": "UI\\Views\\Persona\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-24T00:14:12.554Z",
+              "WhenOpened": "2025-11-24T01:29:02.383Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UI.csproj",
-              "DocumentMoniker": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\UI\\UI.csproj",
-              "RelativeDocumentMoniker": "UI\\UI.csproj",
-              "ToolTip": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\UI\\UI.csproj",
-              "RelativeToolTip": "UI\\UI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-23T23:49:16.97Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PersonaController.cs",
-              "DocumentMoniker": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\UI\\Controllers\\PersonaController.cs",
-              "RelativeDocumentMoniker": "UI\\Controllers\\PersonaController.cs",
-              "ToolTip": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\UI\\Controllers\\PersonaController.cs",
-              "RelativeToolTip": "UI\\Controllers\\PersonaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T00:09:10.537Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\UI\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "UI\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\UI\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "UI\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T00:08:55.817Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PersonaToPersonaWithNombreDepartamentoDTO.cs",
-              "DocumentMoniker": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\Domain\\Mappers\\PersonaToPersonaWithNombreDepartamentoDTO.cs",
-              "RelativeDocumentMoniker": "Domain\\Mappers\\PersonaToPersonaWithNombreDepartamentoDTO.cs",
-              "ToolTip": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\Domain\\Mappers\\PersonaToPersonaWithNombreDepartamentoDTO.cs",
-              "RelativeToolTip": "Domain\\Mappers\\PersonaToPersonaWithNombreDepartamentoDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T00:03:41.365Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "PersonaWithNombreDepartamentoDTO.cs",
-              "DocumentMoniker": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\Domain\\DTO\\PersonaWithNombreDepartamentoDTO.cs",
-              "RelativeDocumentMoniker": "Domain\\DTO\\PersonaWithNombreDepartamentoDTO.cs",
-              "ToolTip": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\Domain\\DTO\\PersonaWithNombreDepartamentoDTO.cs",
-              "RelativeToolTip": "Domain\\DTO\\PersonaWithNombreDepartamentoDTO.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAcwEcAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T23:26:43.559Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GetPersonasWithDepartamentoUC.cs",
-              "DocumentMoniker": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\Domain\\UseCases\\GetPersonasWithDepartamentoUC.cs",
-              "RelativeDocumentMoniker": "Domain\\UseCases\\GetPersonasWithDepartamentoUC.cs",
-              "ToolTip": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\Domain\\UseCases\\GetPersonasWithDepartamentoUC.cs",
-              "RelativeToolTip": "Domain\\UseCases\\GetPersonasWithDepartamentoUC.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T23:23:25.77Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "IGetPersonasWithDepartamentoUC.cs",
               "DocumentMoniker": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\Domain\\Interfaces\\IGetPersonasWithDepartamentoUC.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IGetPersonasWithDepartamentoUC.cs",
               "ToolTip": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\Domain\\Interfaces\\IGetPersonasWithDepartamentoUC.cs",
               "RelativeToolTip": "Domain\\Interfaces\\IGetPersonasWithDepartamentoUC.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T23:20:32.019Z"
+              "WhenOpened": "2025-11-24T01:11:46.344Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Domain.csproj",
-              "DocumentMoniker": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\Domain\\Domain.csproj",
-              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
-              "ToolTip": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\Domain\\Domain.csproj",
-              "RelativeToolTip": "Domain\\Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "CompositionRoot.csproj",
+              "DocumentMoniker": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\CompositionRoot\\CompositionRoot.csproj",
+              "RelativeDocumentMoniker": "CompositionRoot\\CompositionRoot.csproj",
+              "ToolTip": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\CompositionRoot\\CompositionRoot.csproj",
+              "RelativeToolTip": "CompositionRoot\\CompositionRoot.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-23T23:16:04.275Z"
+              "WhenOpened": "2025-11-24T01:07:23.601Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IPeopleRepository.cs",
-              "DocumentMoniker": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\Domain\\Repositories\\IPeopleRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Repositories\\IPeopleRepository.cs",
-              "ToolTip": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\Domain\\Repositories\\IPeopleRepository.cs",
-              "RelativeToolTip": "Domain\\Repositories\\IPeopleRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "DI.cs",
+              "DocumentMoniker": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\CompositionRoot\\DI.cs",
+              "RelativeDocumentMoniker": "CompositionRoot\\DI.cs",
+              "ToolTip": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\CompositionRoot\\DI.cs",
+              "RelativeToolTip": "CompositionRoot\\DI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T23:14:45.069Z"
+              "WhenOpened": "2025-11-24T01:07:13.814Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "PeopleRepositoryAzure.cs",
               "DocumentMoniker": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\Data\\Repositories\\PeopleRepositoryAzure.cs",
               "RelativeDocumentMoniker": "Data\\Repositories\\PeopleRepositoryAzure.cs",
               "ToolTip": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\Data\\Repositories\\PeopleRepositoryAzure.cs",
               "RelativeToolTip": "Data\\Repositories\\PeopleRepositoryAzure.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAowFYAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T23:00:51.197Z"
+              "WhenOpened": "2025-11-24T00:59:43.208Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Persona.cs",
-              "DocumentMoniker": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\Domain\\Entities\\Persona.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Persona.cs",
-              "ToolTip": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\Domain\\Entities\\Persona.cs",
-              "RelativeToolTip": "Domain\\Entities\\Persona.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\UI\\Program.cs",
+              "RelativeDocumentMoniker": "UI\\Program.cs",
+              "ToolTip": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\UI\\Program.cs",
+              "RelativeToolTip": "UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T22:33:56.025Z"
+              "WhenOpened": "2025-11-24T00:38:48.053Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Departamento.cs",
-              "DocumentMoniker": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\Domain\\Entities\\Departamento.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Departamento.cs",
-              "ToolTip": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\Domain\\Entities\\Departamento.cs",
-              "RelativeToolTip": "Domain\\Entities\\Departamento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "UI.csproj",
+              "DocumentMoniker": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\UI\\UI.csproj",
+              "RelativeDocumentMoniker": "UI\\UI.csproj",
+              "ToolTip": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\UI\\UI.csproj",
+              "RelativeToolTip": "UI\\UI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-23T23:49:16.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetPersonasWithDepartamentoUC.cs",
+              "DocumentMoniker": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\Domain\\UseCases\\GetPersonasWithDepartamentoUC.cs",
+              "RelativeDocumentMoniker": "Domain\\UseCases\\GetPersonasWithDepartamentoUC.cs",
+              "ToolTip": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\Domain\\UseCases\\GetPersonasWithDepartamentoUC.cs",
+              "RelativeToolTip": "Domain\\UseCases\\GetPersonasWithDepartamentoUC.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T23:28:05.637Z"
+              "WhenOpened": "2025-11-24T01:13:04.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\UI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "UI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\UI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "UI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T00:31:31.91Z"
             }
           ]
         }

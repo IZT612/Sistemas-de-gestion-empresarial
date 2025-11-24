@@ -1,9 +1,14 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Domain\\Interfaces",
+    "\\Domain\\Repositories",
+    "\\Domain\\UseCases",
+    "\\UI",
     "\\UI\\Views",
+    "\\UI\\Views\\Home",
     "\\UI\\Views\\Persona"
   ],
-  "SelectedNode": "\\Ejercicio2.sln",
+  "SelectedNode": "\\UI\\Views\\Home\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }

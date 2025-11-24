@@ -3,10 +3,14 @@
     "",
     "\\Unidad 10",
     "\\Unidad 10\\Ejercicio2",
+    "\\Unidad 10\\Ejercicio2\\CompositionRoot",
     "\\Unidad 10\\Ejercicio2\\Data",
     "\\Unidad 10\\Ejercicio2\\Data\\Repositories",
-    "\\Unidad 10\\Ejercicio2\\Domain"
+    "\\Unidad 10\\Ejercicio2\\Domain",
+    "\\Unidad 10\\Ejercicio2\\UI",
+    "\\Unidad 10\\Ejercicio2\\UI\\Views",
+    "\\Unidad 10\\Ejercicio2\\UI\\Views\\Persona"
   ],
-  "SelectedNode": "\\Unidad 10\\Ejercicio2\\Ejercicio2.sln",
+  "SelectedNode": "\\Unidad 10\\Ejercicio2\\UI\\Views\\Persona\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }

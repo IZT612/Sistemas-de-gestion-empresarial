@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 
 namespace Data.Repositories
 {
-    internal class PeopleRepositoryAzure: IPeopleRepository
+    public class PeopleRepositoryAzure: IPeopleRepository
     {
 
         public Persona[] getListaPersonas()

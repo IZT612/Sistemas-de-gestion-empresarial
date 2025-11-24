@@ -8,10 +8,10 @@ using Domain.Entities;
 
 namespace Domain.Interfaces
 {
+    using Domain.DTO;
+
     public interface IGetPersonasWithDepartamentoUC
     {
-
         PersonaWithNombreDepartamentoDTO[] getPersonasWithNombreDepartamento();
-
     }
 }
