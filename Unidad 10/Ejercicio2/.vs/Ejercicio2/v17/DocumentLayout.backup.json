@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2426F80C-AEC3-4E1A-B85D-69197FEF0B28}|UI\\UI.csproj|c:\\users\\iziva\\documents\\github\\sistemas-de-gestion-empresarial\\unidad 10\\ejercicio2\\ui\\ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2426F80C-AEC3-4E1A-B85D-69197FEF0B28}|UI\\UI.csproj|solutionrelative:ui\\ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2426F80C-AEC3-4E1A-B85D-69197FEF0B28}|UI\\UI.csproj|c:\\users\\iziva\\documents\\github\\sistemas-de-gestion-empresarial\\unidad 10\\ejercicio2\\ui\\views\\persona\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2426F80C-AEC3-4E1A-B85D-69197FEF0B28}|UI\\UI.csproj|solutionrelative:ui\\views\\persona\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C809A934-3E9B-481E-843A-31B8BC12A6B4}|Domain\\Domain.csproj|c:\\users\\iziva\\documents\\github\\sistemas-de-gestion-empresarial\\unidad 10\\ejercicio2\\domain\\usecases\\getpersonaswithdepartamentouc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C809A934-3E9B-481E-843A-31B8BC12A6B4}|Domain\\Domain.csproj|solutionrelative:domain\\usecases\\getpersonaswithdepartamentouc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2426F80C-AEC3-4E1A-B85D-69197FEF0B28}|UI\\UI.csproj|c:\\users\\iziva\\documents\\github\\sistemas-de-gestion-empresarial\\unidad 10\\ejercicio2\\ui\\ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2426F80C-AEC3-4E1A-B85D-69197FEF0B28}|UI\\UI.csproj|solutionrelative:ui\\ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F001549E-04AC-4981-AC90-2D16421B6742}|CompositionRoot\\CompositionRoot.csproj|c:\\users\\iziva\\documents\\github\\sistemas-de-gestion-empresarial\\unidad 10\\ejercicio2\\compositionroot\\compositionroot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -46,32 +46,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\UI\\Views\\Persona\\Index.cshtml",
               "RelativeDocumentMoniker": "UI\\Views\\Persona\\Index.cshtml",
               "ToolTip": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\UI\\Views\\Persona\\Index.cshtml",
               "RelativeToolTip": "UI\\Views\\Persona\\Index.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADQAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-24T01:29:02.383Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GetPersonasWithDepartamentoUC.cs",
-              "DocumentMoniker": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\Domain\\UseCases\\GetPersonasWithDepartamentoUC.cs",
-              "RelativeDocumentMoniker": "Domain\\UseCases\\GetPersonasWithDepartamentoUC.cs",
-              "ToolTip": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\Domain\\UseCases\\GetPersonasWithDepartamentoUC.cs",
-              "RelativeToolTip": "Domain\\UseCases\\GetPersonasWithDepartamentoUC.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T01:13:04.303Z",
               "EditorCaption": ""
             },
             {
@@ -124,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\UI\\Program.cs",
               "RelativeDocumentMoniker": "UI\\Program.cs",
@@ -137,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "UI.csproj",
               "DocumentMoniker": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\UI\\UI.csproj",
               "RelativeDocumentMoniker": "UI\\UI.csproj",
@@ -146,6 +133,19 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-11-23T23:49:16.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetPersonasWithDepartamentoUC.cs",
+              "DocumentMoniker": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\Domain\\UseCases\\GetPersonasWithDepartamentoUC.cs",
+              "RelativeDocumentMoniker": "Domain\\UseCases\\GetPersonasWithDepartamentoUC.cs",
+              "ToolTip": "C:\\Users\\iziva\\Documents\\GitHub\\Sistemas-de-gestion-empresarial\\Unidad 10\\Ejercicio2\\Domain\\UseCases\\GetPersonasWithDepartamentoUC.cs",
+              "RelativeToolTip": "Domain\\UseCases\\GetPersonasWithDepartamentoUC.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T01:13:04.303Z",
               "EditorCaption": ""
             },
             {
