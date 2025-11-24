@@ -2,10 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\Unidad 10",
-    "\\Unidad 10\\Ejercicio2",
-    "\\Unidad 10\\Ejercicio2\\Data",
-    "\\Unidad 10\\Ejercicio2\\Data\\Repositories"
+    "\\Unidad 10\\Ejercicio2\\UI",
+    "\\Unidad 10\\Ejercicio2\\UI\\Controllers",
+    "\\Unidad 10\\Ejercicio2\\UI\\Models",
+    "\\Unidad 10\\Ejercicio2\\UI\\Views",
+    "\\Unidad 10\\Ejercicio2\\UI\\Views\\Persona",
+    "\\Unidad 10\\Ejercicio3",
+    "\\Unidad 10\\Ejercicio3\\UI",
+    "\\Unidad 10\\Ejercicio3\\UI\\Controllers"
   ],
-  "SelectedNode": "\\Unidad 10",
+  "SelectedNode": "\\Unidad 10\\Ejercicio3\\UI\\Controllers\\PersonaController.cs",
   "PreviewInSolutionExplorer": false
 }
