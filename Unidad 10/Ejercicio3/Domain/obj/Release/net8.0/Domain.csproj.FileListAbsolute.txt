@@ -1,0 +1,12 @@
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 10\Ejercicio3\Domain\bin\Release\net8.0\Domain.deps.json
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 10\Ejercicio3\Domain\bin\Release\net8.0\Domain.dll
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 10\Ejercicio3\Domain\bin\Release\net8.0\Domain.pdb
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 10\Ejercicio3\Domain\obj\Release\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 10\Ejercicio3\Domain\obj\Release\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 10\Ejercicio3\Domain\obj\Release\net8.0\Domain.AssemblyInfo.cs
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 10\Ejercicio3\Domain\obj\Release\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 10\Ejercicio3\Domain\obj\Release\net8.0\Domain.sourcelink.json
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 10\Ejercicio3\Domain\obj\Release\net8.0\Domain.dll
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 10\Ejercicio3\Domain\obj\Release\net8.0\refint\Domain.dll
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 10\Ejercicio3\Domain\obj\Release\net8.0\Domain.pdb
+C:\Users\iziva\Documents\GitHub\Sistemas-de-gestion-empresarial\Unidad 10\Ejercicio3\Domain\obj\Release\net8.0\ref\Domain.dll

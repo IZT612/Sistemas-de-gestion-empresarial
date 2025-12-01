@@ -19,6 +19,11 @@ namespace Domain.UseCases
             _depRepo = depRepo ?? throw new ArgumentNullException(nameof(depRepo));
         }
 
+        public List<Persona> getListaPersonas()
+        {
+            return _peopleRepo.getPersonas() ?? new List<Persona>();
+        }
+
         public List<PersonaWithNombreDepartamentoDTO> getListaPersonasConDepartamentos()
         {
             var personas = _peopleRepo.getPersonas() ?? new List<Persona>();

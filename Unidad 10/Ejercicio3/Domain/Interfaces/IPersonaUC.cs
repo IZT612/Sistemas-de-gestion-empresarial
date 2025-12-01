@@ -5,6 +5,7 @@ namespace Domain.Interfaces
 {
     public interface IPersonaUC
     {
+        public List<Persona> getListaPersonas();
         public List<PersonaWithNombreDepartamentoDTO> getListaPersonasConDepartamentos();
         public PersonaWithNombreDepartamentoDTO getDetallesPersona(int id);
         public PersonaWithListaDepartamentosDTO getPersonaFormulario(); // para Create

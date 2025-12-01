@@ -9,8 +9,9 @@
     "\\Unidad 10\\Ejercicio3\\Domain\\Repositories",
     "\\Unidad 10\\Ejercicio3\\UI",
     "\\Unidad 10\\Ejercicio3\\UI\\Views",
+    "\\Unidad 10\\Ejercicio3\\UI\\Views\\Home",
     "\\Unidad 10\\Ejercicio3\\UI\\Views\\Persona"
   ],
-  "SelectedNode": "\\Unidad 10\\Ejercicio3\\UI\\Views\\Persona\\Delete.cshtml",
+  "SelectedNode": "\\Unidad 10\\Ejercicio3\\UI\\Views\\Home\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
