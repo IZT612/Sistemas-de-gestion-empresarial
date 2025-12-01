@@ -1,60 +1,132 @@
 using Data.Database;
 using Domain.Entities;
-using Microsoft.Data.SqlClient;
 using Domain.Repositories;
+using Microsoft.Data.SqlClient;
 using System;
 using System.Collections.Generic;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 
 namespace Data.Repositories
 {
     public class DepartamentoRepositoryAzure : IDepartamentoRepository
     {
-
-        public Departamento[] getListaDepartamentos()
+        public List<Departamento> getDepartamentos()
         {
-            SqlConnection conexion = new SqlConnection();
             List<Departamento> listaDepartamentos = new List<Departamento>();
-            SqlDataReader lector = null;
-            SqlCommand comando = new SqlCommand();
-            Departamento oDepartamento;
 
-            conexion.ConnectionString = Connection.getConnectionString();
-
-            try
+            using (SqlConnection conexion = new SqlConnection(Connection.getConnectionString()))
+            using (SqlCommand comando = new SqlCommand("SELECT * FROM Departamentos", conexion))
             {
-                conexion.Open();
-
-                comando.CommandText = "SELECT * FROM Departamentos";
-                comando.Connection = conexion;
-
-                lector = comando.ExecuteReader();
-
-                if (lector.HasRows)
+                try
                 {
-                    while (lector.Read())
+                    conexion.Open();
+                    using (SqlDataReader lector = comando.ExecuteReader())
                     {
-                        oDepartamento = new Departamento((int)lector["ID"], (string)lector["Nombre"]);
-
-                        listaDepartamentos.Add(oDepartamento);
+                        while (lector.Read())
+                        {
+                            listaDepartamentos.Add(new Departamento(
+                                (int)lector["ID"],
+                                (string)lector["Nombre"]
+                            ));
+                        }
                     }
                 }
-
-                lector.Close();
-                conexion.Close();
-            }
-            catch (SqlException exSql)
-            {
-                throw exSql;
+                catch (SqlException ex)
+                {
+                    throw ex;
+                }
             }
 
-            return listaDepartamentos.ToArray();
+            return listaDepartamentos;
         }
 
+        public Departamento getDepartamentoById(int id)
+        {
+            Departamento dep = null;
 
+            using (SqlConnection conexion = new SqlConnection(Connection.getConnectionString()))
+            using (SqlCommand comando = new SqlCommand("SELECT * FROM Departamentos WHERE ID=@id", conexion))
+            {
+                comando.Parameters.AddWithValue("@id", id);
+
+                try
+                {
+                    conexion.Open();
+                    using (SqlDataReader lector = comando.ExecuteReader())
+                    {
+                        if (lector.Read())
+                        {
+                            dep = new Departamento(
+                                (int)lector["ID"],
+                                (string)lector["Nombre"]
+                            );
+                        }
+                    }
+                }
+                catch (SqlException ex)
+                {
+                    throw ex;
+                }
+            }
+
+            return dep;
+        }
+
+        public int crearDepartamento(Departamento departamentoNuevo)
+        {
+            using (SqlConnection conexion = new SqlConnection(Connection.getConnectionString()))
+            using (SqlCommand comando = new SqlCommand("INSERT INTO Departamentos (Nombre) VALUES (@nombre)", conexion))
+            {
+                comando.Parameters.AddWithValue("@nombre", departamentoNuevo.nombre);
+
+                try
+                {
+                    conexion.Open();
+                    return comando.ExecuteNonQuery();
+                }
+                catch (SqlException ex)
+                {
+                    throw ex;
+                }
+            }
+        }
+
+        public int actualizarDepartamento(int idDepartamento, Departamento departamentoActualizado)
+        {
+            using (SqlConnection conexion = new SqlConnection(Connection.getConnectionString()))
+            using (SqlCommand comando = new SqlCommand("UPDATE Departamentos SET Nombre=@nombre WHERE ID=@id", conexion))
+            {
+                comando.Parameters.AddWithValue("@nombre", departamentoActualizado.nombre);
+                comando.Parameters.AddWithValue("@id", idDepartamento);
+
+                try
+                {
+                    conexion.Open();
+                    return comando.ExecuteNonQuery();
+                }
+                catch (SqlException ex)
+                {
+                    throw ex;
+                }
+            }
+        }
+
+        public int deleteDepartamento(int id)
+        {
+            using (SqlConnection conexion = new SqlConnection(Connection.getConnectionString()))
+            using (SqlCommand comando = new SqlCommand("DELETE FROM Departamentos WHERE ID=@id", conexion))
+            {
+                comando.Parameters.AddWithValue("@id", id);
+
+                try
+                {
+                    conexion.Open();
+                    return comando.ExecuteNonQuery();
+                }
+                catch (SqlException ex)
+                {
+                    throw ex;
+                }
+            }
+        }
     }
 }

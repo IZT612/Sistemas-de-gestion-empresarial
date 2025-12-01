@@ -1,0 +1,35 @@
+﻿@model List<Domain.Entities.Departamento>
+
+@{
+    ViewBag.Title = "Departamentos";
+}
+
+<h2>Listado de Departamentos</h2>
+
+<p>
+    <a class="btn btn-primary" href="@Url.Action("Create", "Departamento")">Crear Departamento</a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nombre</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var d in Model)
+        {
+            <tr>
+                <td>@d.id</td>
+                <td>@d.nombre</td>
+                <td>
+                    <a class="btn btn-info" href="@Url.Action("Details", "Departamento", new { id = d.id })">Detalles</a>
+                    <a class="btn btn-warning" href="@Url.Action("Edit", "Departamento", new { id = d.id })">Editar</a>
+                    <a class="btn btn-danger" href="@Url.Action("Delete", "Departamento", new { id = d.id })">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

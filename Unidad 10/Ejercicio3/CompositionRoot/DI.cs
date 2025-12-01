@@ -9,12 +9,15 @@ namespace CompositionRoot
 {
     public static class DI
     {
-        // Método de extensión para IServiceCollection
         public static IServiceCollection AddCompositionRoot(this IServiceCollection services, IConfiguration configuration)
         {
-            // Registrar las dependencias necesarias
+            // Registrar las dependencias necesarias para repositorios
             services.AddScoped<IPeopleRepository, PeopleRepositoryAzure>();
-            services.AddScoped<IGetPersonasWithDepartamentoUC, GetPersonasWithDepartamentoUC>();
+            services.AddScoped<IDepartamentoRepository, DepartamentoRepositoryAzure>();
+
+            // Registrar las dependencias necesarias para casos de uso
+            services.AddScoped<IDepartamentoUC, DefaultDepartamentoUC>();
+            services.AddScoped<IPersonaUC, DefaultPersonaUC>();
 
             return services;
         }

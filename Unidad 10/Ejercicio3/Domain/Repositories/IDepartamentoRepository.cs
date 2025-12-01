@@ -9,8 +9,11 @@ namespace Domain.Repositories
 {
     public interface IDepartamentoRepository
     {
-
-        Departamento[] getListaDepartamentos();
+        public List<Departamento> getDepartamentos();
+        public int deleteDepartamento(int id);
+        public int crearDepartamento(Departamento departamentoNuevo);
+        public int actualizarDepartamento(int idDepartamento, Departamento departamentoActualizado);
+        public Departamento getDepartamentoById(int id);
 
     }
 }

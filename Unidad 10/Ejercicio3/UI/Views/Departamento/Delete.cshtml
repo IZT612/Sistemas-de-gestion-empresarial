@@ -1,0 +1,27 @@
+﻿@model Domain.Entities.Departamento
+
+@{
+    ViewBag.Title = "Eliminar Departamento";
+}
+
+<h2>Eliminar Departamento</h2>
+
+<h4>¿Seguro que deseas eliminar este departamento?</h4>
+
+<div>
+    <dl class="row">
+        <dt class="col-sm-2">ID</dt>
+        <dd class="col-sm-10">@Model.id</dd>
+
+        <dt class="col-sm-2">Nombre</dt>
+        <dd class="col-sm-10">@Model.nombre</dd>
+    </dl>
+</div>
+
+@using (Html.BeginForm("Delete", "Departamento", FormMethod.Post, new { id = Model.id }))
+{
+    @Html.HiddenFor(m => m.id)
+
+    <button type="submit" class="btn btn-danger">Eliminar</button>
+    <a class="btn btn-secondary" href="@Url.Action("Index", "Departamento")">Cancelar</a>
+}

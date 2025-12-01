@@ -4,18 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Domain.Repositories;
-using Domain.Entities
+using Domain.Entities;
 
 namespace Domain.DTO
 {
 	public class PersonaWithListaDepartamentosDTO
 	{
-		// TESTEAR FORMA DE HACER ESTO SIN INYECTAR EL REPOSITORIO EN EL CONSTRUCTOR
-		private readonly IDepartamentoRepository _departamentoRepository;
-
-		private Departamento[] listaDeps = _departamentoRepository.getListaDepartamentos;
-
-		/*
 
 		#region atributos
 		private int _id;
@@ -25,7 +19,8 @@ namespace Domain.DTO
 		private string _telefono;
 		private string _foto;
 		private DateTime _fechaNac;
-		private Departamento[] _listaDepartamento;
+		private int _departamento;
+		private Departamento[] _departamentos;
 
 		#endregion
 
@@ -65,16 +60,21 @@ namespace Domain.DTO
 			set { _fechaNac = value; }
 		}
 
-		public string nombreDepartamento
+		public int departamento
 		{
-			get { return _nombreDepartamento; }
-			set { _nombreDepartamento = value; }
-		}
+			get { return _departamento; }
+			set { _departamento = value; }
+        }
+
+        public List<Departamento> departamentos
+		{
+			get { return _departamentos.ToList(); }
+        }
 		#endregion
 
 		#region constructor
 		public PersonaWithListaDepartamentosDTO(int id, string nombre, string apellido,
-			   string direccion, string telefono, string foto, DateTime fechaNac, string nombreDepartamento)
+			   string direccion, string telefono, string foto, DateTime fechaNac, int departamento, Departamento[] departamentos)
 		{
 			_id = id;
 			_nombre = nombre;
@@ -83,9 +83,9 @@ namespace Domain.DTO
 			_telefono = telefono;
 			_foto = foto;
 			_fechaNac = fechaNac;
-			_nombreDepartamento = nombreDepartamento;
+			_departamento = departamento;
+			_departamentos = departamentos;
 		}
 		#endregion
-		*/
 	}
 }

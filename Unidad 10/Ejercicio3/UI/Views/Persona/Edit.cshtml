@@ -1,0 +1,43 @@
+﻿@model Domain.DTO.PersonaWithListaDepartamentosDTO
+@{
+    ViewBag.Title = "Editar Persona";
+}
+
+<h2>Editar Persona</h2>
+
+@using (Html.BeginForm("Edit", "Persona", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    @Html.Hidden("Id", Model.id)
+
+    <div class="form-group">
+        @Html.Label("Nombre")
+        @Html.TextBox("Nombre", Model.nombre, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.Label("Apellidos")
+        @Html.TextBox("Apellidos", Model.apellido, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.Label("Teléfono")
+        @Html.TextBox("Telefono", Model.telefono, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.Label("Departamento")
+        <select name="NumeroDep" class="form-control">
+            <option value="">-- Seleccionar --</option>
+            @foreach (var d in Model.departamentos)
+            {
+
+                <option value="@d.id" selected="@(d.id == Model.departamento)">
+                    @d.nombre
+                </option>
+
+
+            }
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Guardar</button>
+    @Html.ActionLink("Volver", "Index", null, new { @class = "btn btn-default" })
+}
