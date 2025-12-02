@@ -26,12 +26,12 @@ namespace Domain.UseCases
 
         public List<PersonaWithNombreDepartamentoDTO> getListaPersonasConDepartamentos()
         {
-            var personas = _peopleRepo.getPersonas() ?? new List<Persona>();
-            var result = new List<PersonaWithNombreDepartamentoDTO>();
+            List<Persona> personas = _peopleRepo.getPersonas() ?? new List<Persona>();
+            List<PersonaWithNombreDepartamentoDTO> result = new List<PersonaWithNombreDepartamentoDTO>();
 
-            foreach (var p in personas)
+            foreach (Persona p in personas)
             {
-                var dep = _depRepo.getDepartamentoById(p.departamento);
+                Departamento dep = _depRepo.getDepartamentoById(p.departamento);
                 result.Add(new PersonaWithNombreDepartamentoDTO(
                     p.id,
                     p.nombre,
@@ -49,10 +49,10 @@ namespace Domain.UseCases
 
         public PersonaWithNombreDepartamentoDTO getDetallesPersona(int id)
         {
-            var p = _peopleRepo.getPersonaById(id);
+            Persona p = _peopleRepo.getPersonaById(id);
             if (p == null) return null;
 
-            var dep = _depRepo.getDepartamentoById(p.departamento);
+            Departamento dep = _depRepo.getDepartamentoById(p.departamento);
 
             return new PersonaWithNombreDepartamentoDTO(
                 p.id,
@@ -68,7 +68,7 @@ namespace Domain.UseCases
 
         public PersonaWithListaDepartamentosDTO getPersonaFormulario()
         {
-            var listaDep = _depRepo.getDepartamentos()?.ToArray() ?? new Departamento[0];
+            Departamento[] listaDep = _depRepo.getDepartamentos()?.ToArray() ?? new Departamento[0];
 
             return new PersonaWithListaDepartamentosDTO(
                 0, "", "", "", "", "", DateTime.MinValue, 0, listaDep
@@ -106,16 +106,20 @@ namespace Domain.UseCases
         public int actualizarPersona(int id, Persona persona)
         {
             if (persona == null) throw new ArgumentNullException(nameof(persona));
-            var existing = _peopleRepo.getPersonaById(id);
+            Persona existing = _peopleRepo.getPersonaById(id);
             if (existing == null) return 0;
             return _peopleRepo.actualizarPersona(id, persona);
         }
 
         public int eliminarPersona(int id)
         {
-            var existing = _peopleRepo.getPersonaById(id);
-            if (existing == null) return 0;
-            return _peopleRepo.deletePersona(id);
+            Persona persona = _peopleRepo.getPersonaById(id);
+            if (persona == null) return 0;
+
+            if (_peopleRepo.getPersonasEnDepartamento(persona.departamento) == 0) return _peopleRepo.deletePersona(id);
+            else return 0;
+
+
         }
 
         public Persona PersonaWithListDepartamentoDTOPasarAPersona(PersonaWithListaDepartamentosDTO dto)

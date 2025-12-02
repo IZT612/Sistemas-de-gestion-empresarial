@@ -8,23 +8,33 @@
 @using (Html.BeginForm("Edit", "Persona", FormMethod.Post))
 {
     @Html.AntiForgeryToken()
-    @Html.Hidden("Id", Model.id)
+    @Html.Hidden("id", Model.id)
 
     <div class="form-group">
         @Html.Label("Nombre")
-        @Html.TextBox("Nombre", Model.nombre, new { @class = "form-control" })
+        @Html.TextBox("nombre", Model.nombre, new { @class = "form-control" })
     </div>
+
     <div class="form-group">
-        @Html.Label("Apellidos")
-        @Html.TextBox("Apellidos", Model.apellido, new { @class = "form-control" })
+        @Html.Label("Apellido")
+        @Html.TextBox("apellido", Model.apellido, new { @class = "form-control" })
     </div>
+
+    <div class="form-group">
+        @Html.Label("Dirección")
+        @Html.TextBox("direccion", Model.direccion, new { @class = "form-control" })
+    </div>
+
     <div class="form-group">
         @Html.Label("Teléfono")
-        @Html.TextBox("Telefono", Model.telefono, new { @class = "form-control" })
+        @Html.TextBox("telefono", Model.telefono, new { @class = "form-control" })
     </div>
+
+    @Html.Hidden("foto", Model.foto)
+
     <div class="form-group">
         @Html.Label("Departamento")
-        <select name="NumeroDep" class="form-control">
+        <select name="departamento" class="form-control">
             <option value="">-- Seleccionar --</option>
             @foreach (var d in Model.departamentos)
             {

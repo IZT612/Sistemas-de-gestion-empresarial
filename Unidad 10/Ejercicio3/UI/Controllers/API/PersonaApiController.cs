@@ -8,12 +8,12 @@ namespace UI.Controllers.API
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class PersonaController : ControllerBase
+    public class PersonaApiController : ControllerBase
     {
 
         IPersonaUC _personaUC;
 
-        public PersonaController(IPersonaUC personaUC)
+        public PersonaApiController(IPersonaUC personaUC)
         {
             _personaUC = personaUC;
         }

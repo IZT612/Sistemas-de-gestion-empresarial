@@ -21,17 +21,17 @@ namespace UI.Controllers
         [HttpGet]
         public ActionResult Index()
         {
-            var model = _personaUC.getListaPersonasConDepartamentos();
-            return View(model);
+            List<PersonaWithNombreDepartamentoDTO> personas = _personaUC.getListaPersonasConDepartamentos();
+            return View(personas);
         }
 
         // GET: Persona/Details/{id}
         [HttpGet]
         public ActionResult Details(int id)
         {
-            var model = _personaUC.getDetallesPersona(id);
-            if (model == null) return NotFound();
-            return View(model);
+            PersonaWithNombreDepartamentoDTO persona = _personaUC.getDetallesPersona(id);
+            if (persona == null) return NotFound();
+            return View(persona);
         }
 
         // GET: Persona/Create
@@ -45,7 +45,7 @@ namespace UI.Controllers
         // POST: Persona/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind("id, nombre, apellidos, direccion, telefono, foto, departamento")] PersonaWithListaDepartamentosDTO dto)
+        public ActionResult Create([Bind("id, nombre, apellido, direccion, telefono, foto, departamento")] PersonaWithListaDepartamentosDTO dto)
         {
 
             dto.fechaNac ??= DateTime.Now;
@@ -72,32 +72,32 @@ namespace UI.Controllers
         [HttpGet]
         public ActionResult Edit(int id)
         {
-            var model = _personaUC.getPersonaFormulario(id);
-            if (model == null) return NotFound();
-            return View(model);
+            PersonaWithListaDepartamentosDTO personaYLista = _personaUC.getPersonaFormulario(id);
+            if (personaYLista == null) return NotFound();
+            return View(personaYLista);
         }
 
         // POST: Persona/Edit/{id}
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, Persona persona)
+        public ActionResult Edit([Bind("id, nombre, apellido, direccion, telefono, foto, departamento")] PersonaWithListaDepartamentosDTO dto)
         {
             try
             {
                 if (!ModelState.IsValid)
                 {
-                    var dto = _personaUC.getPersonaFormulario(id);
-                    return View(dto);
+                    PersonaWithListaDepartamentosDTO personaYLista = _personaUC.getPersonaFormulario(dto.id);
+                    return View(personaYLista);
                 }
 
-                _personaUC.actualizarPersona(id, persona);
+                _personaUC.actualizarPersona(dto.id, _personaUC.PersonaWithListDepartamentoDTOPasarAPersona(dto));
                 return RedirectToAction(nameof(Index));
             }
             catch (Exception ex)
             {
                 ModelState.AddModelError("", ex.Message);
-                var dto = _personaUC.getPersonaFormulario(id);
-                return View(dto);
+                PersonaWithListaDepartamentosDTO personaYLista = _personaUC.getPersonaFormulario(dto.id);
+                return View(personaYLista);
             }
         }
 
@@ -105,9 +105,9 @@ namespace UI.Controllers
         [HttpGet]
         public ActionResult Delete(int id)
         {
-            var model = _personaUC.getDetallesPersona(id);
-            if (model == null) return NotFound();
-            return View(model);
+            PersonaWithNombreDepartamentoDTO persona = _personaUC.getDetallesPersona(id);
+            if (persona == null) return NotFound();
+            return View(persona);
         }
 
         // POST: Persona/Delete/{id}
@@ -124,8 +124,8 @@ namespace UI.Controllers
             catch (Exception ex)
             {
                 ModelState.AddModelError("", ex.Message);
-                var model = _personaUC.getDetallesPersona(id);
-                return View("Delete", model);
+                PersonaWithNombreDepartamentoDTO persona = _personaUC.getDetallesPersona(id);
+                return View("Delete", persona);
             }
         }
     }

@@ -15,5 +15,7 @@ namespace Domain.Repositories
         public int actualizarPersona(int idPersona, Persona personaActualizada);
         public Persona getPersonaById(int id);
 
+        public int getPersonasEnDepartamento(int id);
+
     }
 }

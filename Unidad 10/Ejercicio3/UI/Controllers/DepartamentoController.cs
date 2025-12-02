@@ -18,17 +18,17 @@ namespace UI.Controllers
         [HttpGet]
         public ActionResult Index()
         {
-            var model = _depUC.getDepartamentos();
-            return View(model);
+            List<Departamento> departamentos = _depUC.getDepartamentos();
+            return View(departamentos);
         }
 
         // GET: Departamento/Details/{id}
         [HttpGet]
         public ActionResult Details(int id)
         {
-            var model = _depUC.getDetalleDepartamento(id);
-            if (model == null) return NotFound();
-            return View(model);
+            Departamento departamento = _depUC.getDetalleDepartamento(id);
+            if (departamento == null) return NotFound();
+            return View(departamento);
         }
 
         // GET: Departamento/Create
@@ -60,9 +60,9 @@ namespace UI.Controllers
         [HttpGet]
         public ActionResult Edit(int id)
         {
-            var model = _depUC.getDetalleDepartamento(id);
-            if (model == null) return NotFound();
-            return View(model);
+            Departamento departamento = _depUC.getDetalleDepartamento(id);
+            if (departamento == null) return NotFound();
+            return View(departamento);
         }
 
         // POST: Departamento/Edit/{id}
@@ -87,9 +87,9 @@ namespace UI.Controllers
         [HttpGet]
         public ActionResult Delete(int id)
         {
-            var model = _depUC.getDetalleDepartamento(id);
-            if (model == null) return NotFound();
-            return View(model);
+            Departamento departamento = _depUC.getDetalleDepartamento(id);
+            if (departamento == null) return NotFound();
+            return View(departamento);
         }
 
         // POST: Departamento/Delete/{id}
@@ -106,8 +106,8 @@ namespace UI.Controllers
             catch (InvalidOperationException ex)
             {
                 ModelState.AddModelError("", ex.Message);
-                var model = _depUC.getDetalleDepartamento(id);
-                return View("Delete", model);
+                Departamento departamento = _depUC.getDetalleDepartamento(id);
+                return View("Delete", departamento);
             }
         }
 

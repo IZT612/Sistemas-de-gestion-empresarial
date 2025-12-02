@@ -162,5 +162,30 @@ namespace Data.Repositories
                 }
             }
         }
+
+        public int getPersonasEnDepartamento(int id)
+        {
+            int cantidad = 0;
+
+            using (SqlConnection conexion = new SqlConnection(Connection.getConnectionString()))
+            {
+                using (SqlCommand comando = new SqlCommand(("SELECT COUNT(*) FROM Personas WHERE IDDepartamento = " + id), conexion))
+
+                try
+                {
+                    conexion.Open();
+                    
+                    cantidad = (int)comando.ExecuteScalar();
+                    
+                }
+                catch (SqlException ex)
+                {
+                    throw ex;
+                }
+            }
+
+            return cantidad;
+        }
+
     }
 }

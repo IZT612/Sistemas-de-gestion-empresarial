@@ -6,11 +6,11 @@ namespace UI.Controllers.API
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class DepartamentoController : ControllerBase
+    public class DepartamentoApiController : ControllerBase
     {
         private readonly IDepartamentoUC _departamentoUC;
 
-        public DepartamentoController(IDepartamentoUC departamentoUC)
+        public DepartamentoApiController(IDepartamentoUC departamentoUC)
         {
             _departamentoUC = departamentoUC;
         }

@@ -1,8 +1,8 @@
 [
   {
-    "ContainingType": "UI.Controllers.API.DepartamentoController",
+    "ContainingType": "UI.Controllers.API.DepartamentoApiController",
     "Method": "Get",
-    "RelativePath": "api/Departamento",
+    "RelativePath": "api/DepartamentoApi",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -10,9 +10,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "UI.Controllers.API.DepartamentoController",
+    "ContainingType": "UI.Controllers.API.DepartamentoApiController",
     "Method": "Post",
-    "RelativePath": "api/Departamento",
+    "RelativePath": "api/DepartamentoApi",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -26,9 +26,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "UI.Controllers.API.DepartamentoController",
+    "ContainingType": "UI.Controllers.API.DepartamentoApiController",
     "Method": "Get",
-    "RelativePath": "api/Departamento/{id}",
+    "RelativePath": "api/DepartamentoApi/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -42,9 +42,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "UI.Controllers.API.DepartamentoController",
+    "ContainingType": "UI.Controllers.API.DepartamentoApiController",
     "Method": "Put",
-    "RelativePath": "api/Departamento/{id}",
+    "RelativePath": "api/DepartamentoApi/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -63,9 +63,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "UI.Controllers.API.DepartamentoController",
+    "ContainingType": "UI.Controllers.API.DepartamentoApiController",
     "Method": "Delete",
-    "RelativePath": "api/Departamento/{id}",
+    "RelativePath": "api/DepartamentoApi/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -79,9 +79,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "UI.Controllers.API.PersonaController",
+    "ContainingType": "UI.Controllers.API.PersonaApiController",
     "Method": "Get",
-    "RelativePath": "api/Persona",
+    "RelativePath": "api/PersonaApi",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -89,9 +89,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "UI.Controllers.API.PersonaController",
+    "ContainingType": "UI.Controllers.API.PersonaApiController",
     "Method": "Post",
-    "RelativePath": "api/Persona",
+    "RelativePath": "api/PersonaApi",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -105,9 +105,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "UI.Controllers.API.PersonaController",
+    "ContainingType": "UI.Controllers.API.PersonaApiController",
     "Method": "Get",
-    "RelativePath": "api/Persona/{id}",
+    "RelativePath": "api/PersonaApi/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -121,9 +121,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "UI.Controllers.API.PersonaController",
+    "ContainingType": "UI.Controllers.API.PersonaApiController",
     "Method": "Put",
-    "RelativePath": "api/Persona/{id}",
+    "RelativePath": "api/PersonaApi/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -142,9 +142,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "UI.Controllers.API.PersonaController",
+    "ContainingType": "UI.Controllers.API.PersonaApiController",
     "Method": "Delete",
-    "RelativePath": "api/Persona/{id}",
+    "RelativePath": "api/PersonaApi/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,

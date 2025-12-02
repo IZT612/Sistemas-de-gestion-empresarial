@@ -30,7 +30,7 @@ namespace Domain.UseCases
 
         public List<Persona> getPersonasEnDepartamento(int id)
         {
-            var personas = _peopleRepo.getPersonas() ?? new List<Persona>();
+            List<Persona> personas = _peopleRepo.getPersonas() ?? new List<Persona>();
             return personas.Where(p => p.departamento == id).ToList();
         }
 
@@ -44,19 +44,17 @@ namespace Domain.UseCases
         public int actualizarDepartamento(int id, Departamento departamento)
         {
             if (departamento == null) throw new ArgumentNullException(nameof(departamento));
-            var existing = _depRepo.getDepartamentoById(id);
+            Departamento existing = _depRepo.getDepartamentoById(id);
             if (existing == null) return 0;
             return _depRepo.actualizarDepartamento(id, departamento);
         }
 
         public int eliminarDepartamento(int id)
         {
-            var existing = _depRepo.getDepartamentoById(id);
+            Departamento existing = _depRepo.getDepartamentoById(id);
             if (existing == null) return 0;
 
-            var personas = _peopleRepo.getPersonas() ?? new List<Persona>();
-            if (personas.Any(p => p.departamento == id))
-                throw new InvalidOperationException("No se puede eliminar un departamento que tiene personas asignadas.");
+            
 
             return _depRepo.deleteDepartamento(id);
         }
