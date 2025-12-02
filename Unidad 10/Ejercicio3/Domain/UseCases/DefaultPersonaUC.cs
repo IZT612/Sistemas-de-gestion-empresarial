@@ -39,7 +39,7 @@ namespace Domain.UseCases
                     p.direccion,
                     p.telefono,
                     p.foto,
-                    p.fechaNac,
+                    p.fechaNac ??= DateTime.Now,
                     dep?.nombre ?? ""
                 ));
             }
@@ -61,7 +61,7 @@ namespace Domain.UseCases
                 p.direccion,
                 p.telefono,
                 p.foto,
-                p.fechaNac,
+                p.fechaNac ??= DateTime.Now,
                 dep?.nombre ?? ""
             );
         }
@@ -90,7 +90,7 @@ namespace Domain.UseCases
                 p.direccion,
                 p.telefono,
                 p.foto,
-                p.fechaNac,
+                p.fechaNac ??= DateTime.Now,
                 p.departamento,
                 listaDep
             );

@@ -38,32 +38,33 @@ namespace UI.Controllers
         [HttpGet]
         public ActionResult Create()
         {
-            List<Departamento> departamentos = _departamentoUC.getDepartamentos();
-            return View(departamentos);
+            PersonaWithListaDepartamentosDTO dto = new PersonaWithListaDepartamentosDTO(_departamentoUC.getDepartamentos().ToArray());
+            return View(dto);
         }
 
         // POST: Persona/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind("id, nombre, apellidos, direccion, telefono, foto, departamento")] Persona persona)
+        public ActionResult Create([Bind("id, nombre, apellidos, direccion, telefono, foto, departamento")] PersonaWithListaDepartamentosDTO dto)
         {
+
+            dto.fechaNac ??= DateTime.Now;
+
             try
             {
 
                 if (!ModelState.IsValid)
                 {
-                    List<Departamento> departamentos = _departamentoUC.getDepartamentos();
-                    return View(departamentos);
+                    return View(dto);
                 }
 
-                _personaUC.crearPersona(persona);
+                _personaUC.crearPersona(_personaUC.PersonaWithListDepartamentoDTOPasarAPersona(dto));
                 return RedirectToAction("Index");
             }
             catch (Exception ex)
             {
                 ModelState.AddModelError("", ex.Message);
-                List<Departamento> departamentos = _departamentoUC.getDepartamentos();
-                return View(departamentos);
+                return View(_personaUC.PersonaWithListDepartamentoDTOPasarAPersona(dto));
             }
         }
 

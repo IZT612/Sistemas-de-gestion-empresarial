@@ -57,10 +57,10 @@ namespace Domain.Entities
             set { _foto = value; }
         }
 
-        public DateTime fechaNac
+        public DateTime? fechaNac
         {
             get { return _fechaNac; }
-            set { _fechaNac = value; }
+            set { _fechaNac = value ??= DateTime.Now; }
         }
 
         public int departamento
@@ -80,6 +80,7 @@ namespace Domain.Entities
             this._telefono = telefono;
             this._foto = foto;
             this._departamento = departamento;
+            this._fechaNac = DateTime.Now;
         }
 
         public Persona()
@@ -91,6 +92,7 @@ namespace Domain.Entities
             this._telefono = "";
             this._foto = "";
             this._departamento = 0;
+            this._fechaNac = DateTime.Now;
         }
         #endregion
 

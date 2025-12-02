@@ -18,7 +18,7 @@ namespace Domain.DTO
 		private string _direccion;
 		private string _telefono;
 		private string _foto;
-		private DateTime _fechaNac;
+		private DateTime? _fechaNac;
 		private int _departamento;
 		private Departamento[] _departamentos;
 
@@ -54,10 +54,10 @@ namespace Domain.DTO
 			get { return _foto; }
 		}
 
-		public DateTime fechaNac
+		public DateTime? fechaNac
 		{
 			get { return _fechaNac; }
-			set { _fechaNac = value; }
+			set { _fechaNac = value ??= DateTime.Now; }
 		}
 
 		public int departamento
@@ -66,7 +66,7 @@ namespace Domain.DTO
 			set { _departamento = value; }
         }
 
-        public List<Departamento> departamentos
+        public List<Departamento>? departamentos
 		{
 			get { return _departamentos.ToList(); }
         }
@@ -82,10 +82,36 @@ namespace Domain.DTO
 			_direccion = direccion;
 			_telefono = telefono;
 			_foto = foto;
-			_fechaNac = fechaNac;
+			_fechaNac = DateTime.Now;
 			_departamento = departamento;
 			_departamentos = departamentos;
 		}
-		#endregion
-	}
+
+        public PersonaWithListaDepartamentosDTO(Departamento[] departamentos)
+        {
+            _id = 0;
+            _nombre = "";
+            _apellido = "";
+            _direccion = "";
+            _telefono = "";
+            _foto = "";
+            _fechaNac = DateTime.Now;
+            _departamento = 0;
+            _departamentos = departamentos;
+        }
+
+        public PersonaWithListaDepartamentosDTO()
+        {
+            _id = 0;
+            _nombre = "";
+            _apellido = "";
+            _direccion = "";
+            _telefono = "";
+            _foto = "";
+            _fechaNac = DateTime.Now;
+            _departamento = 0;
+            _departamentos = new Departamento[0];
+        }
+        #endregion
+    }
 }
