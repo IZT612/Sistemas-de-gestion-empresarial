@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -33,6 +34,13 @@ namespace Domain.Entities
             _nombre = nombre;
         }
         #endregion
+
+        public Departamento()
+        {
+
+            this._id = 0;
+            this._nombre = "";
+        }
 
     }
 }

@@ -78,8 +78,7 @@
               "RelativeToolTip": "Unidad 10\\Ejercicio3\\Domain\\Entities\\Departamento.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T12:56:24.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T12:56:24.299Z"
             },
             {
               "$type": "Document",
@@ -91,8 +90,7 @@
               "RelativeToolTip": "Unidad 10\\Ejercicio3\\Domain\\Entities\\Persona.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T12:47:27.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T12:47:27.799Z"
             },
             {
               "$type": "Document",
@@ -102,7 +100,7 @@
               "RelativeDocumentMoniker": "Unidad 10\\Ejercicio3\\Domain\\DTO\\PersonaWithListaDepartamentosDTO.cs",
               "ToolTip": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 10\\Ejercicio3\\Domain\\DTO\\PersonaWithListaDepartamentosDTO.cs",
               "RelativeToolTip": "Unidad 10\\Ejercicio3\\Domain\\DTO\\PersonaWithListaDepartamentosDTO.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA0AAABVAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T12:08:12.93Z",
               "EditorCaption": ""
@@ -117,8 +115,7 @@
               "RelativeToolTip": "Unidad 10\\Ejercicio3\\Domain\\DTO\\PersonaWithNombreDepartamentoDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T12:07:54.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T12:07:54.171Z"
             },
             {
               "$type": "Document",
@@ -130,8 +127,7 @@
               "RelativeToolTip": "Unidad 10\\Ejercicio3\\Data\\Database\\Connection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T12:07:23.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T12:07:23.42Z"
             },
             {
               "$type": "Document",
@@ -143,8 +139,7 @@
               "RelativeToolTip": "Unidad 10\\Ejercicio3\\Data\\Repositories\\DepartamentoRepositoryAzure.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T12:06:02.652Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T12:06:02.652Z"
             },
             {
               "$type": "Document",
@@ -156,8 +151,7 @@
               "RelativeToolTip": "Unidad 10\\Ejercicio3\\Domain\\Repositories\\IDepartamentoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T12:04:46.166Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T12:04:46.166Z"
             },
             {
               "$type": "Document",
@@ -169,8 +163,7 @@
               "RelativeToolTip": "Unidad 10\\Ejercicio3\\Domain\\Repositories\\IPeopleRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T12:04:20.515Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T12:04:20.515Z"
             },
             {
               "$type": "Document",
@@ -182,8 +175,7 @@
               "RelativeToolTip": "Unidad 10\\Ejercicio3\\Data\\Repositories\\PeopleRepositoryAzure.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAAAAGgAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T12:03:39.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T12:03:39.636Z"
             },
             {
               "$type": "Document",

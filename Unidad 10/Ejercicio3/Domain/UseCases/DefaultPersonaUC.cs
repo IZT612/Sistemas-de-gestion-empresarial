@@ -77,8 +77,8 @@ namespace Domain.UseCases
 
         public PersonaWithListaDepartamentosDTO getPersonaFormulario(int id)
         {
-            var p = _peopleRepo.getPersonaById(id);
-            var listaDep = _depRepo.getDepartamentos()?.ToArray() ?? new Departamento[0];
+            Persona p = _peopleRepo.getPersonaById(id);
+            Departamento[] listaDep = _depRepo.getDepartamentos()?.ToArray() ?? new Departamento[0];
 
             if (p == null)
                 return new PersonaWithListaDepartamentosDTO(0, "", "", "", "", "", DateTime.MinValue, 0, listaDep);
@@ -117,5 +117,14 @@ namespace Domain.UseCases
             if (existing == null) return 0;
             return _peopleRepo.deletePersona(id);
         }
+
+        public Persona PersonaWithListDepartamentoDTOPasarAPersona(PersonaWithListaDepartamentosDTO dto)
+        {
+
+            Persona persona = new Persona(dto.id, dto.nombre, dto.apellido, dto.direccion, dto.telefono, dto.foto, dto.departamento);
+
+            return persona;
+        }
+
     }
 }

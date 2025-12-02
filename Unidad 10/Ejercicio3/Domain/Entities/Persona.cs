@@ -24,6 +24,7 @@ namespace Domain.Entities
 
         public int id
         {
+            set { _id = value; }
             get { return _id; }
         }
 
@@ -79,6 +80,17 @@ namespace Domain.Entities
             this._telefono = telefono;
             this._foto = foto;
             this._departamento = departamento;
+        }
+
+        public Persona()
+        {
+            this._id = 0;
+            this._nombre = "";
+            this._apellidos = "";
+            this._direccion = "";
+            this._telefono = "";
+            this._foto = "";
+            this._departamento = 0;
         }
         #endregion
 

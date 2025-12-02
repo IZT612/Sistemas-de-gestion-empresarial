@@ -8,10 +8,12 @@ namespace Domain.Interfaces
         public List<Persona> getListaPersonas();
         public List<PersonaWithNombreDepartamentoDTO> getListaPersonasConDepartamentos();
         public PersonaWithNombreDepartamentoDTO getDetallesPersona(int id);
-        public PersonaWithListaDepartamentosDTO getPersonaFormulario(); // para Create
-        public PersonaWithListaDepartamentosDTO getPersonaFormulario(int id); // para Edit
+        public PersonaWithListaDepartamentosDTO getPersonaFormulario();
+        public PersonaWithListaDepartamentosDTO getPersonaFormulario(int id); 
         public int crearPersona(Persona persona);
         public int actualizarPersona(int id, Persona persona);
         public int eliminarPersona(int id);
+
+        public Persona PersonaWithListDepartamentoDTOPasarAPersona(PersonaWithListaDepartamentosDTO dto);
     }
 }

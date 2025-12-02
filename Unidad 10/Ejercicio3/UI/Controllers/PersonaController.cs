@@ -1,6 +1,7 @@
 ﻿using Domain.Entities;
 using Domain.Interfaces;
 using Microsoft.AspNetCore.Mvc;
+using Domain.DTO;
 using System;
 
 namespace UI.Controllers
@@ -8,10 +9,12 @@ namespace UI.Controllers
     public class PersonaController : Controller
     {
         private readonly IPersonaUC _personaUC;
+        private readonly IDepartamentoUC _departamentoUC;
 
-        public PersonaController(IPersonaUC personaUC)
+        public PersonaController(IPersonaUC personaUC, IDepartamentoUC departamentoUC)
         {
             _personaUC = personaUC;
+            _departamentoUC = departamentoUC;
         }
 
         // GET: Persona
@@ -35,31 +38,32 @@ namespace UI.Controllers
         [HttpGet]
         public ActionResult Create()
         {
-            var model = _personaUC.getPersonaFormulario();
-            return View(model);
+            List<Departamento> departamentos = _departamentoUC.getDepartamentos();
+            return View(departamentos);
         }
 
         // POST: Persona/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(Persona persona)
+        public ActionResult Create([Bind("id, nombre, apellidos, direccion, telefono, foto, departamento")] Persona persona)
         {
             try
             {
+
                 if (!ModelState.IsValid)
                 {
-                    var dto = _personaUC.getPersonaFormulario(); // necesario para recargar lista de departamentos
-                    return View(dto);
+                    List<Departamento> departamentos = _departamentoUC.getDepartamentos();
+                    return View(departamentos);
                 }
 
                 _personaUC.crearPersona(persona);
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction("Index");
             }
             catch (Exception ex)
             {
                 ModelState.AddModelError("", ex.Message);
-                var dto = _personaUC.getPersonaFormulario();
-                return View(dto);
+                List<Departamento> departamentos = _departamentoUC.getDepartamentos();
+                return View(departamentos);
             }
         }
 
