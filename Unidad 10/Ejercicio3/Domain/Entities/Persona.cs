@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -28,23 +29,32 @@ namespace Domain.Entities
             get { return _id; }
         }
 
+        [MaxLength(15)]
+        [Required(ErrorMessage = "El campo nombre es obligatorio.")]
         public string nombre
         {
             get { return _nombre; }
             set { _nombre = value; }
         }
 
+        [MaxLength(39)]
+        [Required(ErrorMessage = "El campo apellidos es obligatorio.")]
         public string apellidos
         {
             get { return _apellidos; }
             set { _apellidos = value; }
         }
+
+        [MaxLength(200)]
         public string direccion
         {
             get { return _direccion; }
             set { _direccion = value; }
         }
 
+        [RegularExpression(@"^(\+34|0034|34)?[ -]?[6789]\d{2}[ -]?\d{2}[ -]?\d{2}[ -]?\d{2}$",
+            ErrorMessage = "El formato del telefono es incorrecto.")]
+        [Required(ErrorMessage = "El campo telefono es obligatorio.")]
         public string telefono
         {
             get { return _telefono; }
@@ -57,6 +67,7 @@ namespace Domain.Entities
             set { _foto = value; }
         }
 
+        [DisplayFormat(DataFormatString = "{0:d}", ApplyFormatInEditMode = true)]
         public DateTime? fechaNac
         {
             get { return _fechaNac; }

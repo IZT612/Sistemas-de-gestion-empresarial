@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 10\\Ejercicio3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{991E0E69-7D21-4B42-853E-EA2F3BF42205}|Domain\\Domain.csproj|c:\\users\\ivan.zamora\\github\\sistemas-gestion-empresarial\\unidad 10\\ejercicio3\\domain\\usecases\\defaultpersonauc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{991E0E69-7D21-4B42-853E-EA2F3BF42205}|Domain\\Domain.csproj|solutionrelative:domain\\usecases\\defaultpersonauc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9C0DCCE9-3603-4D73-869C-9035B02A2551}|Data\\Data.csproj|c:\\users\\ivan.zamora\\github\\sistemas-gestion-empresarial\\unidad 10\\ejercicio3\\data\\repositories\\peoplerepositoryazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C0DCCE9-3603-4D73-869C-9035B02A2551}|Data\\Data.csproj|solutionrelative:data\\repositories\\peoplerepositoryazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F69055-7D25-4A67-9CC1-B767D82DFBC6}|UI\\UI.csproj|c:\\users\\ivan.zamora\\github\\sistemas-gestion-empresarial\\unidad 10\\ejercicio3\\ui\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95F69055-7D25-4A67-9CC1-B767D82DFBC6}|UI\\UI.csproj|solutionrelative:ui\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991E0E69-7D21-4B42-853E-EA2F3BF42205}|Domain\\Domain.csproj|c:\\users\\ivan.zamora\\github\\sistemas-gestion-empresarial\\unidad 10\\ejercicio3\\domain\\usecases\\defaultpersonauc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991E0E69-7D21-4B42-853E-EA2F3BF42205}|Domain\\Domain.csproj|solutionrelative:domain\\usecases\\defaultpersonauc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C0DCCE9-3603-4D73-869C-9035B02A2551}|Data\\Data.csproj|c:\\users\\ivan.zamora\\github\\sistemas-gestion-empresarial\\unidad 10\\ejercicio3\\data\\repositories\\departamentorepositoryazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{991E0E69-7D21-4B42-853E-EA2F3BF42205}|Domain\\Domain.csproj|c:\\users\\ivan.zamora\\github\\sistemas-gestion-empresarial\\unidad 10\\ejercicio3\\domain\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{991E0E69-7D21-4B42-853E-EA2F3BF42205}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95F69055-7D25-4A67-9CC1-B767D82DFBC6}|UI\\UI.csproj|c:\\users\\ivan.zamora\\github\\sistemas-gestion-empresarial\\unidad 10\\ejercicio3\\ui\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95F69055-7D25-4A67-9CC1-B767D82DFBC6}|UI\\UI.csproj|solutionrelative:ui\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{95F69055-7D25-4A67-9CC1-B767D82DFBC6}|UI\\UI.csproj|c:\\users\\ivan.zamora\\github\\sistemas-gestion-empresarial\\unidad 10\\ejercicio3\\ui\\views\\persona\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -146,11 +146,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "DefaultPersonaUC.cs",
               "DocumentMoniker": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 10\\Ejercicio3\\Domain\\UseCases\\DefaultPersonaUC.cs",
               "RelativeDocumentMoniker": "Domain\\UseCases\\DefaultPersonaUC.cs",
@@ -163,20 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DefaultDepartamentoUC.cs",
-              "DocumentMoniker": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 10\\Ejercicio3\\Domain\\UseCases\\DefaultDepartamentoUC.cs",
-              "RelativeDocumentMoniker": "Domain\\UseCases\\DefaultDepartamentoUC.cs",
-              "ToolTip": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 10\\Ejercicio3\\Domain\\UseCases\\DefaultDepartamentoUC.cs",
-              "RelativeToolTip": "Domain\\UseCases\\DefaultDepartamentoUC.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T23:53:36.642Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IPeopleRepository.cs",
               "DocumentMoniker": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 10\\Ejercicio3\\Domain\\Repositories\\IPeopleRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Repositories\\IPeopleRepository.cs",
@@ -189,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "IPersonaUC.cs",
               "DocumentMoniker": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 10\\Ejercicio3\\Domain\\Interfaces\\IPersonaUC.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IPersonaUC.cs",
@@ -202,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "IDepartamentoRepository.cs",
               "DocumentMoniker": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 10\\Ejercicio3\\Domain\\Repositories\\IDepartamentoRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Repositories\\IDepartamentoRepository.cs",
@@ -215,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "PersonaWithNombreDepartamentoDTO.cs",
               "DocumentMoniker": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 10\\Ejercicio3\\Domain\\DTO\\PersonaWithNombreDepartamentoDTO.cs",
               "RelativeDocumentMoniker": "Domain\\DTO\\PersonaWithNombreDepartamentoDTO.cs",
@@ -228,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DepartamentoRepositoryAzure.cs",
               "DocumentMoniker": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 10\\Ejercicio3\\Data\\Repositories\\DepartamentoRepositoryAzure.cs",
               "RelativeDocumentMoniker": "Data\\Repositories\\DepartamentoRepositoryAzure.cs",
@@ -241,20 +228,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PeopleRepositoryAzure.cs",
               "DocumentMoniker": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 10\\Ejercicio3\\Data\\Repositories\\PeopleRepositoryAzure.cs",
               "RelativeDocumentMoniker": "Data\\Repositories\\PeopleRepositoryAzure.cs",
               "ToolTip": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 10\\Ejercicio3\\Data\\Repositories\\PeopleRepositoryAzure.cs",
               "RelativeToolTip": "Data\\Repositories\\PeopleRepositoryAzure.cs",
-              "ViewState": "AgIAAJUAAAAAAAAAAAAiwLEAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAiwLYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T12:30:39.819Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonaController.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 10\\Ejercicio3\\UI\\Controllers\\PersonaController.cs",
+              "RelativeDocumentMoniker": "UI\\Controllers\\PersonaController.cs",
+              "ToolTip": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 10\\Ejercicio3\\UI\\Controllers\\PersonaController.cs",
+              "RelativeToolTip": "UI\\Controllers\\PersonaController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAArwEoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T01:46:00.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "DefaultDepartamentoUC.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 10\\Ejercicio3\\Domain\\UseCases\\DefaultDepartamentoUC.cs",
+              "RelativeDocumentMoniker": "Domain\\UseCases\\DefaultDepartamentoUC.cs",
+              "ToolTip": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 10\\Ejercicio3\\Domain\\UseCases\\DefaultDepartamentoUC.cs",
+              "RelativeToolTip": "Domain\\UseCases\\DefaultDepartamentoUC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T23:53:36.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 10\\Ejercicio3\\Domain\\Entities\\Persona.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Persona.cs",
@@ -263,19 +276,6 @@
               "ViewState": "AgIAAFIAAAAAAAAAAAAYwBgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-30T23:52:59.412Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PersonaController.cs",
-              "DocumentMoniker": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 10\\Ejercicio3\\UI\\Controllers\\PersonaController.cs",
-              "RelativeDocumentMoniker": "UI\\Controllers\\PersonaController.cs",
-              "ToolTip": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 10\\Ejercicio3\\UI\\Controllers\\PersonaController.cs",
-              "RelativeToolTip": "UI\\Controllers\\PersonaController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAWwDkAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T01:46:00.441Z",
               "EditorCaption": ""
             },
             {
