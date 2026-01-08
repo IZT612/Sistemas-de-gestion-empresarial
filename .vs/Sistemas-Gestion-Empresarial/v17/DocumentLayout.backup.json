@@ -80,7 +80,7 @@
               "RelativeDocumentMoniker": "Unidad 10\\Ejercicio3\\Domain\\UseCases\\DefaultPersonaUC.cs",
               "ToolTip": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 10\\Ejercicio3\\Domain\\UseCases\\DefaultPersonaUC.cs",
               "RelativeToolTip": "Unidad 10\\Ejercicio3\\Domain\\UseCases\\DefaultPersonaUC.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-09T11:06:36.521Z",
               "EditorCaption": ""
@@ -95,7 +95,8 @@
               "RelativeToolTip": "Unidad 10\\Ejercicio3\\Domain\\Entities\\Departamento.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T12:56:24.299Z"
+              "WhenOpened": "2025-11-26T12:56:24.299Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -107,7 +108,8 @@
               "RelativeToolTip": "Unidad 10\\Ejercicio3\\Domain\\Entities\\Persona.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T12:47:27.799Z"
+              "WhenOpened": "2025-11-26T12:47:27.799Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -119,7 +121,8 @@
               "RelativeToolTip": "Unidad 10\\Ejercicio3\\Domain\\DTO\\PersonaWithListaDepartamentosDTO.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T12:08:12.93Z"
+              "WhenOpened": "2025-11-26T12:08:12.93Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -131,7 +134,8 @@
               "RelativeToolTip": "Unidad 10\\Ejercicio3\\Domain\\DTO\\PersonaWithNombreDepartamentoDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T12:07:54.171Z"
+              "WhenOpened": "2025-11-26T12:07:54.171Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -143,7 +147,8 @@
               "RelativeToolTip": "Unidad 10\\Ejercicio3\\Data\\Database\\Connection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T12:07:23.42Z"
+              "WhenOpened": "2025-11-26T12:07:23.42Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -155,7 +160,8 @@
               "RelativeToolTip": "Unidad 10\\Ejercicio3\\Data\\Repositories\\DepartamentoRepositoryAzure.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T12:06:02.652Z"
+              "WhenOpened": "2025-11-26T12:06:02.652Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -167,7 +173,8 @@
               "RelativeToolTip": "Unidad 10\\Ejercicio3\\Domain\\Repositories\\IDepartamentoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T12:04:46.166Z"
+              "WhenOpened": "2025-11-26T12:04:46.166Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -179,7 +186,8 @@
               "RelativeToolTip": "Unidad 10\\Ejercicio3\\Domain\\Repositories\\IPeopleRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T12:04:20.515Z"
+              "WhenOpened": "2025-11-26T12:04:20.515Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -191,7 +199,8 @@
               "RelativeToolTip": "Unidad 10\\Ejercicio3\\Data\\Repositories\\PeopleRepositoryAzure.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAAAAGgAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T12:03:39.636Z"
+              "WhenOpened": "2025-11-26T12:03:39.636Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -212,7 +221,6 @@
               "RelativeDocumentMoniker": "Unidad 10\\EjercicioListaPersonasClean\\CompositionRoot\\CompositionRoot.csproj",
               "ToolTip": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 10\\EjercicioListaPersonasClean\\CompositionRoot\\CompositionRoot.csproj",
               "RelativeToolTip": "Unidad 10\\EjercicioListaPersonasClean\\CompositionRoot\\CompositionRoot.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-11-19T12:43:46.339Z"
             },
@@ -224,7 +232,6 @@
               "RelativeDocumentMoniker": "Unidad 10\\EjercicioListaPersonasClean\\Data\\Data.csproj",
               "ToolTip": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 10\\EjercicioListaPersonasClean\\Data\\Data.csproj",
               "RelativeToolTip": "Unidad 10\\EjercicioListaPersonasClean\\Data\\Data.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-11-19T12:43:42.913Z"
             },
@@ -247,7 +254,6 @@
               "RelativeDocumentMoniker": "Unidad 10\\EjercicioListaPersonasClean\\UI\\Program.cs",
               "ToolTip": "C:\\Users\\ivan.zamora\\github\\Sistemas-Gestion-Empresarial\\Unidad 10\\EjercicioListaPersonasClean\\UI\\Program.cs",
               "RelativeToolTip": "Unidad 10\\EjercicioListaPersonasClean\\UI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-19T12:43:24.688Z"
             }

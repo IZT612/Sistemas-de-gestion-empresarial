@@ -3,15 +3,14 @@
     "",
     "\\Unidad 10",
     "\\Unidad 10\\Ejercicio3",
-    "\\Unidad 10\\Ejercicio3\\Data",
-    "\\Unidad 10\\Ejercicio3\\Data\\Repositories",
+    "\\Unidad 10\\Ejercicio3\\Domain",
+    "\\Unidad 10\\Ejercicio3\\Domain\\UseCases",
     "\\Unidad 10\\Ejercicio3\\UI",
     "\\Unidad 10\\Ejercicio3\\UI\\Controllers",
     "\\Unidad 10\\Ejercicio3\\UI\\Controllers\\API",
     "\\Unidad 10\\Ejercicio3\\UI\\Views",
-    "\\Unidad 10\\Ejercicio3\\UI\\Views\\Persona",
-    "\\Unidad 10\\EjercicioListaPersonasClean\\UI"
+    "\\Unidad 10\\Ejercicio3\\UI\\Views\\Persona"
   ],
-  "SelectedNode": "\\Unidad 10\\Ejercicio3\\Data\\Repositories\\PeopleRepositoryAzure.cs",
+  "SelectedNode": "\\Unidad 10\\Ejercicio3\\Ejercicio3.sln",
   "PreviewInSolutionExplorer": false
 }
