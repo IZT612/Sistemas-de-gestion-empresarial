@@ -1,9 +1,25 @@
-<form>
-  <label for="nombre">Nombre</label>
-  <input type="text" id="nombre" name="nombre" placeholder="Escribe tu nombre" required>
+<div class="form-container">
+  <form (ngSubmit)="onSubmit()">
+    <label for="nombre">Nombre</label>
+    <input type="text" id="nombre" name="nombre" [(ngModel)]="nombre" required>
 
-  <label for="apellidos">Apellidos</label>
-  <input type="text" id="apellidos" name="apellidos" placeholder="Escribe tus apellidos" required>
+    <label for="apellidos">Apellidos</label>
+    <input type="text" id="apellidos" name="apellidos" [(ngModel)]="apellidos" required>
 
-  <button type="submit">Enviar</button>
-</form>
+    <label>Género</label>
+    <mat-radio-group [(ngModel)]="genero" name="genero">
+      <mat-radio-button value="Masculino">Masculino</mat-radio-button>
+      <mat-radio-button value="Femenino">Femenino</mat-radio-button>
+    </mat-radio-group>
+
+    <label>Edad</label>
+    <div style="width: 300px; margin: 20px auto;">
+      <mat-slider>
+        <input matSliderThumb [(ngModel)]="edad" name="edad" [value]="edad">
+      </mat-slider>
+    </div>
+    <p>Edad seleccionada: {{ edad }}</p>
+
+    <button type="submit">Enviar</button>
+  </form>
+</div>

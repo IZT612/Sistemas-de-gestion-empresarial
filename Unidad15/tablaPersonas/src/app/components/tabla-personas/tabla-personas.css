@@ -1,10 +1,4 @@
-/* Estilos generales */
-body {
-  font-family: Arial, Helvetica, sans-serif;
-  background-color: #f5f5f5;
-  padding: 20px;
-
-  /* Centrando todo */
+.tabla-container {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -26,47 +20,26 @@ td {
   text-align: center;
 }
 
-tr:nth-child(even) {
-  background-color: #f9f9f9;
+/* Acciones */
+.acciones {
+  margin-top: 15px;
+  display: flex;
+  gap: 10px;
 }
 
-tr:hover {
-  background-color: #eef6ff;
-}
-
-/* Contenedor para enlace y botón */
-a,
-button {
-  margin: 5px;
-}
-
-/* Enlace */
 a {
-  display: inline-block;
   padding: 10px 16px;
   text-decoration: none;
   color: #ffffff;
   background-color: #007bff;
   border-radius: 4px;
-  transition: background-color 0.3s ease;
 }
 
-a:hover {
-  background-color: #0056b3;
-}
-
-/* Botón */
 button {
   padding: 10px 16px;
   border: none;
   background-color: #28a745;
   color: #ffffff;
-  font-size: 14px;
   border-radius: 4px;
   cursor: pointer;
-  transition: background-color 0.3s ease;
-}
-
-button:hover {
-  background-color: #1e7e34;
 }

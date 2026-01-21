@@ -1,0 +1,57 @@
+<div class="form-wrapper">
+  <div class="form-container">
+    <h2>Formulario Reactivo</h2>
+    
+    <form [formGroup]="formulario" (ngSubmit)="saluda()">
+      
+      <!-- Nombre -->
+      <div class="form-group">
+        <label for="nombre">Nombre</label>
+        <input id="nombre" type="text" formControlName="nombre" placeholder="Ingresa tu nombre" class="form-input">
+        <span class="error-message" *ngIf="(formulario.controls['nombre'].dirty || formulario.controls['nombre'].touched) 
+                      && formulario.controls['nombre'].errors?.['required']">
+          El nombre es obligatorio
+        </span>
+      </div>
+
+      <!-- Apellidos -->
+      <div class="form-group">
+        <label for="apellidos">Apellidos</label>
+        <input id="apellidos" type="text" formControlName="apellidos" placeholder="Ingresa tus apellidos" class="form-input">
+        <span class="error-message" *ngIf="(formulario.controls['apellidos'].dirty || formulario.controls['apellidos'].touched) 
+                      && formulario.controls['apellidos'].errors?.['required']">
+          Los apellidos son obligatorios
+        </span>
+      </div>
+
+      <!-- Género -->
+      <div class="form-group">
+        <label>Género</label>
+        <div class="radio-group">
+          <mat-radio-group formControlName="genero">
+            <mat-radio-button value="Masculino">Masculino</mat-radio-button>
+            <mat-radio-button value="Femenino">Femenino</mat-radio-button>
+          </mat-radio-group>
+        </div>
+      </div>
+
+      <!-- Edad -->
+      <div class="form-group">
+        <label>Edad</label>
+        <div class="slider-container">
+          <mat-slider>
+            <input matSliderThumb formControlName="edad" [value]="formulario.controls['edad'].value">
+          </mat-slider>
+          <div class="age-display">{{ formulario.controls['edad'].value }} años</div>
+        </div>
+      </div>
+
+      <!-- Botones -->
+      <div class="button-group">
+        <button type="submit" class="btn btn-primary" [disabled]="formulario.invalid">Saludar</button>
+        <button type="button" class="btn btn-secondary" (click)="goBack()">Volver</button>
+      </div>
+
+    </form>
+  </div>
+</div>
