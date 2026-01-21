@@ -1,0 +1,15 @@
+<div class="lista-personas">
+  <h2>Lista de Personas</h2>
+  <div class="persons-list">
+    <div *ngFor="let person of persons()" class="person-card">
+      <img [src]="person.foto" [alt]="person.nombre + ' ' + person.apellidos" class="person-photo" />
+      <div class="person-info">
+        <h3>{{ person.nombre }} {{ person.apellidos }}</h3>
+        <p><strong>Dirección:</strong> {{ person.direccion }}</p>
+        <p><strong>Teléfono:</strong> {{ person.telefono }}</p>
+        <p><strong>Fecha de Nacimiento:</strong> {{ person.fechaNac | date:'dd/MM/yyyy' }}</p>
+        <p><strong>Departamento:</strong> {{ person.departamento.nombre }}</p>
+      </div>
+    </div>
+  </div>
+</div>
