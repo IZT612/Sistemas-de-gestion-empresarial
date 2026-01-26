@@ -1,5 +1,5 @@
 export class ApiDataSource {
-  private baseUrl = 'https://TU_API_AZURE';
+  private baseUrl = 'https://ivanzamora-btgtggg4d8gqgxab.italynorth-01.azurewebsites.net';
 
   async get<T>(endpoint: string): Promise<T> {
     const response = await fetch(`${this.baseUrl}${endpoint}`);

@@ -1,7 +1,7 @@
 import { Component, OnInit, signal } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { Person } from '../../Data/Entities/Person';
-import { getPersonsUseCase } from '../../app/Core/container';
+import { Person } from '../../../Data/Entities/Person';
+import { getPersonsUseCase } from '../../../app/Core/container';
 
 @Component({
   selector: 'app-lista-personas',
