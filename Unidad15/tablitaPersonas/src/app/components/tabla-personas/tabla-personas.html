@@ -1,0 +1,59 @@
+<div class="tabla-container">
+
+  <table>
+    <thead>
+      <tr>
+        <th>Nombre</th>
+        <th>Apellidos</th>
+        <th>Género</th>
+        <th>Edad</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let persona of personas">
+        <td>{{ persona.nombre }}</td>
+        <td>{{ persona.apellidos }}</td>
+        <td>{{ persona.genero }}</td>
+        <td>{{ persona.edad }}</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <router-outlet></router-outlet>
+
+<div class="acciones">
+
+  <button (click)="abrirFormulario()">Abrir formulario</button>
+
+
+  <button (click)="abrirListado()">Abrir listado</button>
+
+  <button (click)="abrirFormularioReactivo()">Abrir Formulario Reactivo</button>
+</div>
+
+<!-- Progress Spinner -->
+<mat-progress-spinner
+  mode="indeterminate"
+  color="primary"
+  diameter="50">
+</mat-progress-spinner>
+
+<br>
+
+<!-- Radiobutton -->
+<mat-radio-group>
+  <mat-radio-button value="opcion1">Opción 1</mat-radio-button>
+  <mat-radio-button value="opcion2">Opción 2</mat-radio-button>
+</mat-radio-group>
+
+<br>
+
+<!-- Slider -->
+<div style="width: 300px; margin: 20px auto;">
+  <mat-slider>
+    <input matSliderThumb [value]="50">
+  </mat-slider>
+</div>
+
+
+</div>
