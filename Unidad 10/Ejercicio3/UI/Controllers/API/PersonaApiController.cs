@@ -116,8 +116,11 @@ namespace UI.Controllers.API
 
             try
             {
-                if (persona == null || persona.id != id)
+                if (persona == null)
                     return BadRequest();
+
+                // Aceptar que el cliente no envíe el id en el body.
+                persona.id = id;
 
                 int filasAfectadas = _personaUC.actualizarPersona(id, persona);
 
@@ -148,7 +151,7 @@ namespace UI.Controllers.API
                 if (filasAfectadas != 0)
                     resultado = Ok();
                 else
-                    resultado = NoContent();
+                    resultado = NotFound();
             }
             catch
             {

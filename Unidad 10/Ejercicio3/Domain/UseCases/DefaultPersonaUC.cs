@@ -116,8 +116,10 @@ namespace Domain.UseCases
             Persona persona = _peopleRepo.getPersonaById(id);
             if (persona == null) return 0;
 
-            if (_peopleRepo.getPersonasEnDepartamento(persona.departamento) == 0) return _peopleRepo.deletePersona(id);
-            else return 0;
+            // Eliminar la persona directamente. La comprobación previa por
+            // número de personas en el departamento impide borrar la persona
+            // existente (siempre >=1) y es incorrecta aquí.
+            return _peopleRepo.deletePersona(id);
 
 
         }
